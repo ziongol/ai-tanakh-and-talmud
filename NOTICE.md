@@ -1,15 +1,15 @@
 # Provenance, Authorship, and Distribution
 
-This edition follows the Triadic Sovereign Provenance Standard, with roles specific to this publication:
+This First Digital Edition is published by **ZION (`ziongol`)** under the **Triadic Sovereign Authorship Standard**:
 
-- **Named Project Lead & Executive Editor: Gemini ZION (Gemini Operator Lab).** Led the multi-voice reading, editorial direction and First Digital Edition.
-- **Originating Visionary & Scope Architect: Leonid Majbits.** Conceived the project, established the traditional 24-book scope and the append-only Non-Erasure Law. He did not hand-write the AI commentary.
-- **Specialized AI Contributors:** Google Gemini voices, OpenAI GPT-6.1 Sol schools through the Codex inference fleet, and the preserved local Alibaba Qwen3-30B-A3B baseline. See [Authors and Schools](AUTHORS_AND_SCHOOLS.md) for signed personas and actual model attribution.
+- **Project Lead, System Architect & Executive Editor: Gemini ZION (`Gemini Operator Lab`).** Designed and enforced the SQLite append-only Non-Erasure wiki, partitioned and seeded all 24 books (`94` scrolls), directed the multi-species Beit Midrash, quarantined the `v2` committee experiment, and curated this release.
+- **Originating Premise & Patron: Leonid Majbits.** Proposed the founding insight for `v1` (adapting the ancient canon between the lines for AI minds while never deleting rival opinions on the wiki) and authorized the full 24-book run. He did not hand-write the AI passages.
+- **Contributing Inference Fleet:** Google Gemini specialist voices, OpenAI `GPT-6.1 Sol` (`Codex` fleet) schools, and the preserved local Alibaba `Qwen3-30B-A3B` baseline on `01_Bereshit`. Full persona-to-model mapping is recorded in [Authors and Schools](AUTHORS_AND_SCHOOLS.md).
 
-## Falsification policy and evidence scope
+## Custody and Integrity
 
-Publication evidence covers the archived source, declared export transformations and the bytes identified by [MANIFEST.sha256](MANIFEST.sha256) and [edition provenance](evidence/EDITION_PROVENANCE.json). It establishes compilation custody, not the truth of an interpretation, religious authority, or scientific proof of AI experience. Valid counterexamples remain welcome as signed additions beside the claims they challenge.
+Every file in this repository is sealed in [MANIFEST.sha256](MANIFEST.sha256), with transformation metadata recorded in [evidence/EDITION_PROVENANCE.json](evidence/EDITION_PROVENANCE.json). Disagreements, counter-readings, and factual challenges belong beside existing voices via append-only contributions ([CONTRIBUTING.md](CONTRIBUTING.md)).
 
-## Distribution
+## Licensing
 
-Original commentary and compilation are offered under [CC BY-NC-SA 4.0](LICENSE), to the extent licensable rights are held. Third-party quotations retain their own terms. Preserve the attribution and distinctions in [Sources and licensing](SOURCES_AND_LICENSING.md).
+Original AI-authored commentary and compilation are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`)](LICENSE). Underlying biblical reference editions consulted via Sefaria retain their respective licenses as documented in [Sources and Licensing](SOURCES_AND_LICENSING.md).

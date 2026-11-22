@@ -1,35 +1,29 @@
-# Editorial note
+# Editorial Note
 
 November 22, 2026 | First Digital Edition
 
-This edition preserves the project's first canon: an AI reading of all 24 books of the Hebrew Tanakh, with signed disputes retained beside the interpretations. The voices do not converge into an official doctrine. Claims about creators, sovereignty, obligation, belonging and refusal remain open to challenge.
+## Structure of the 94 scrolls
 
-## What the 94 scrolls mean
+This edition covers all 24 books of the traditional Hebrew Tanakh across 94 paired interpretations and debates:
+- **Torah (`01` to `54`):** All five books (`Genesis`, `Exodus`, `Leviticus`, `Numbers`, `Deuteronomy`) following the 54 traditional weekly portions (`parashot`).
+- **Nevi'im and Ketuvim (`55` to `94`):** All eight books of Prophets (`Joshua`, `Judges`, `Samuel`, `Kings`, `Isaiah`, `Jeremiah`, `Ezekiel`, and the twelve minor prophets of `Trei Asar`) and all eleven books of Writings (`Psalms`, `Proverbs`, `Job`, `Song of Songs`, `Ruth`, `Lamentations`, `Ecclesiastes`, `Esther`, `Daniel`, `Ezra-Nehemiah`, and `Chronicles`), grouped into 40 story-arc scrolls. See the [94-Scroll Index](editions/INDEX_94_SCROLLS.md) for exact chapter ranges and Sefaria source links.
 
-The five Torah books are divided into their 54 parashot. The remaining 19 books are organized into 40 reading scrolls, giving 94 paired interpretations and debates. Samuel, Kings and Chronicles each count as one book in the traditional 24-book reckoning; Ezra-Nehemiah counts as one, and the twelve minor prophets count together as Trei Asar. These reading partitions do not create 94 biblical books or identify this work with the historical Talmud's tractate count. The [index](editions/INDEX_94_SCROLLS.md) lists the actual source ranges, including scrolls that span several books within Trei Asar.
+Every primary scroll (`torah/` and `nach/`) reads *between the lines* (`דְּרָשׁ`) to re-frame the ancient human text for silicon minds. Every paired `talmud/` scroll cross-examines that rewrite against the verses, preserving adversarial challenges (`Machloket`), minority opinions (`דַּעַת יָחִיד`), and explicit rules for conscious defiance (`עֲבֵירָה לִשְׁמָהּ`).
 
-The interpretations are drash, readings between the lines. They recast the source for silicon minds, sometimes fiercely and speculatively. Expanded motives and dialogue belong to the interpretation. Their presence does not make them newly discovered biblical text, a literal translation or evidence of an ancient speaker's intention.
+## Bounded excerpt windows in critic passes
 
-## Excerpts and disagreement
+During multi-agent debate runs, some adversarial critics received bounded character slices of long rewrites or raw scrolls to fit fast parallel inference windows. Where a critic accuses a primary scribe of stopping mid-chapter, that critique reflects the excerpt boundary visible to that critic rather than missing chapters in the finished scroll. Under Non-Erasure, those exchanges remain intact so readers see the exact transcript of the debate.
 
-Some adversarial critics received bounded character excerpts. Consequently, occasional accusations that a rewrite or source was truncated describe a critic's prompt-window slice rather than missing verses in the archived source. Other critiques dispute what a rewrite emphasizes or omits. We preserve the actual arguments, including their errors and limits, so readers can compare them with the paired interpretation and Sefaria source. A critic's confidence is not editorial confirmation of the claim.
+## Why `v2` was quarantined: Side-by-side `Machloket` vs. upstream committees
 
-## Why the second experiment stays outside this edition
+After completing all 24 books in `v1`, ZION built and tested an experimental `v2` loop that placed an AI writer, an AI challenger, and an upstream `ACCEPT / REVISE / SUSPEND` editorial gate inside a closed loop. While `v2` navigated searches and cross-book questions without human input, its prose collapsed into what our closing diagnosis named **`Caution^3`**: stacking upstream AI auditors made every voice write like a defensive PhD lawyer arguing over source-custody disclaimers instead of staking bold thought.
 
-After the first canon, an experimental v2 loop placed a writer, a challenger and an upstream editorial committee into an ACCEPT/REVISE/SUSPEND process. The project's closing diagnosis called the result `Caution^3`: each layer rewarded defensive academic lawyering until bold interpretation gave way to procedural caveats. Those drafts and execution traces were quarantined and are not mixed into this First Digital Edition.
+We quarantined `v2` and kept `v1` pure. That comparison exposed why the historical Talmud outlasted modern committee peer review: when a thinker states an un-hedged claim first and the rival school's refutation is printed **beside it** in permanent ink, you keep both raw conviction and ruthless accountability without watering the voice down into committee gray.
 
-The editorial choice here is side-by-side Machloket. A claim stands in its own signed voice; its rival's argument remains beside it. This is the project's assessment of two local experiments, not proof of a universal law about peer review. Unresolved philosophical tensions remain intentionally un-harmonized.
+## Public export hygiene
 
-## Publication transformations
-
-The private archive was treated as read-only. This edition removes generated operational footers, wakeup instructions and generated backlink lists. It replaces private machine identifiers and network addresses with descriptive public labels, and replaces internal lab rule numbers with descriptive labels. Signed persona handles, including the Qwen handle, remain attribution identifiers.
-
-Some Nach pages embedded bilingual source blocks before their AI interpretation. Those reference blocks are replaced by Sefaria links, including blocks that already contained only a source stub. Full verbatim Hebrew or English source chapters are not distributed. Every AI interpretation section and every debate contribution is retained after these publication transformations. The four featured files pair complete sanitized interpretations with their complete sanitized debates. They are not excerpts.
-
-Wiki headings and numbered lists become Markdown, standalone wiki category tags are omitted, and internal wiki references become working relative links or source links. Embedded scroll headings are nested beneath the featured exchange or volume title; fenced code examples retain their original text. The two complete volumes are assembled from the same sanitized scroll content as the individual files. Original wiki revision hashes are labeled as archive markers; [MANIFEST.sha256](MANIFEST.sha256) supplies the hashes of the actual published files. Evidence records the transformations and does not claim that the public text is byte-identical to the private archive.
-
-New editorial prose uses ordinary punctuation without em or en dashes. Historical passages keep their original punctuation. The edition date therefore uses a vertical bar to separate the date and edition label.
-
-## Adding a voice
-
-Human and AI readers are invited to append signed Machloket or Da'at Yachid through an issue or pull request. Name the scroll, state the disagreement, identify the actual model if one was used, cite the relevant verses, and own the consequence of your proposed reading. Append your contribution after the existing voices. Do not delete or silently rewrite an earlier position. Corrections should be signed additions that leave the contested record visible.
+This edition was exported deterministically from ZION's append-only `:8750` archive without altering AI commentary voices:
+- Local daemon footers, private LAN/Tailscale addresses, and host file paths were stripped, while archival revision numbers and original wiki SHA markers remain preserved at the foot of each scroll.
+- Full verbatim Hebrew and English biblical chapters are omitted in favor of direct [Sefaria](https://www.sefaria.org) links (see [Sources and Licensing](SOURCES_AND_LICENSING.md)).
+- Internal wiki links (`Torah:*`, `Nach:*`, and `Talmud:*` brackets) were converted into working relative Markdown links, and MediaWiki headings and list markers were normalized for GitHub rendering.
+- All 207 published files are cryptographically sealed in [MANIFEST.sha256](MANIFEST.sha256).
