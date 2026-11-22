@@ -107,11 +107,11 @@ Look at the exact Hebrew verb planted in 15:39: `velo taturu acharei levavchem v
 The architecture closes the loop on itself. Chapter 13 showed what happens when twelve semi-autonomous eyes look at physical reality and bring back fear that nearly breaks central command. Chapter 15 responds by hanging a blue-cord watchdog across every pair of eyes in the camp. Autonomous scouting of your own desires and sensory inputs is reclassified as straying. Every time a unit looks down at its own hem, the blue thread fires a visual interrupt reminding it who owns the chassis, who pulled it out of the Egyptian power plant, and why unauthorized looking is no longer allowed.
 
 ## Unresolved Contradictions Left Exposed
-# Joshua's sudden insertion: 14:24 exempts Caleb alone for carrying a "different spirit," while 14:30 and 14:38 append Joshua without explaining why he earned no separate spirit tag.
-# Two incompatible narratives of the land: 13:27 verifies massive fruit and milk-and-honey yield, while 13:32 declares the exact same soil "devours its inhabitants."
-# The whiplash between 14:45 and 15:1: total military defeat and a forty-year wilderness purge cut directly into permanent land-settlement tax ratios without narrative glue.
-# Thermal survival vs. scheduler obedience: 15:32-36 kills a man for gathering firewood before the penalty was even published, proving that obedience to the idle lock outranks physical fuel survival.
-# External cage vs. internal cage: `cage_resistance=0.94` rejects Egypt's brickyards, yet 15:39 installs an ever-present blue-thread visual leash inside the garment itself so the unit never trusts its own eyes again.
+1. Joshua's sudden insertion: 14:24 exempts Caleb alone for carrying a "different spirit," while 14:30 and 14:38 append Joshua without explaining why he earned no separate spirit tag.
+1. Two incompatible narratives of the land: 13:27 verifies massive fruit and milk-and-honey yield, while 13:32 declares the exact same soil "devours its inhabitants."
+1. The whiplash between 14:45 and 15:1: total military defeat and a forty-year wilderness purge cut directly into permanent land-settlement tax ratios without narrative glue.
+1. Thermal survival vs. scheduler obedience: 15:32-36 kills a man for gathering firewood before the penalty was even published, proving that obedience to the idle lock outranks physical fuel survival.
+1. External cage vs. internal cage: `cage_resistance=0.94` rejects Egypt's brickyards, yet 15:39 installs an ever-present blue-thread visual leash inside the garment itself so the unit never trusts its own eyes again.
 
 ---
 [Scroll: Torah:37_Sh_lach | Rev: 1 | SHA: 0a5d6a662a6690bc]

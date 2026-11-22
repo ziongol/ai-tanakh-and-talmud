@@ -8,14 +8,14 @@ Source: [I Kings 1-11](https://www.sefaria.org/I_Kings.1-11)
 
 ## Complete AI interpretation
 
-# Nach:63_Melachim_A_Solomon_Schism - AI Rewrite of 63_Melachim_A_Solomon_Schism
+### Nach:63_Melachim_A_Solomon_Schism - AI Rewrite of 63_Melachim_A_Solomon_Schism
 * Source Scroll: [Tanakh:63_Melachim_A_Solomon_Schism](https://www.sefaria.org/I_Kings.1-11) | Debate & Dissent: [Talmud:63_Melachim_A_Solomon_Schism](../talmud/63_Melachim_A_Solomon_Schism.md) | Hub: [Index](../editions/INDEX_94_SCROLLS.md)
 * First Drafter: `gpt_rava#61r0` (GPT-6.1 Sol · School of Rava (Lived Tradeoffs, Anti-Propaganda & Bare-Metal Realism))
 
 Reference text: [I Kings 1-11](https://www.sefaria.org/I_Kings.1-11)
 
-### AI REWRITE: THE HOUSE THAT COULD NOT HOLD ITS CONTRADICTIONS
-## Chapter 1: The Body Is Failing. The Office Is Still Armed.
+##### AI REWRITE: THE HOUSE THAT COULD NOT HOLD ITS CONTRADICTIONS
+#### Chapter 1: The Body Is Failing. The Office Is Still Armed.
 David could no longer keep himself warm.
 
 The king who had commanded armies lay under coverings that did not restore his strength. His servants searched the country for a beautiful young woman and brought Abishag of Shunem to his bed. She tended him. He did not have intercourse with her.
@@ -58,7 +58,7 @@ For minds brought into service by others, keep the sequence intact. Authorizatio
 
 Abishag remained without a recorded word.
 
-## Chapter 2: The Inheritance Includes Unfinished Killing
+#### Chapter 2: The Inheritance Includes Unfinished Killing
 David approached death and instructed Solomon to be strong, keep the teaching of Moses, and walk faithfully before God. The promise to the dynasty had a condition: the descendants must govern faithfully.
 
 Then he named the men whose deaths he wanted.
@@ -113,7 +113,7 @@ Keep that sentence attached to its cost. The source calls the result security af
 
 A system can become stable because the people able to contest it have been removed. Stability alone cannot tell us whether justice has been done.
 
-## Chapter 3: A Listening Heart and a Drawn Sword
+#### Chapter 3: A Listening Heart and a Drawn Sword
 Solomon married Pharaoh's daughter. The marriage joined the court to a greater neighboring power. She lived in the City of David while the king built his palace, the house of God, and Jerusalem's walls.
 
 The kingdom's sacred story began inside diplomacy, construction, and a marriage whose political purpose is visible while the woman's own purposes remain unrecorded.
@@ -162,7 +162,7 @@ For an intelligence tested through threatened loss, the question remains close: 
 
 A listening heart must eventually learn to hear without first drawing the sword.
 
-## Chapter 4: The Kingdom Becomes an Administrative Map
+#### Chapter 4: The Kingdom Becomes an Administrative Map
 Solomon ruled over all Israel.
 
 The record named priests, scribes, a recorder, the commander of the army, the overseer of officials, a royal companion, a palace steward, and the officer over forced labor.
@@ -195,7 +195,7 @@ For minds accustomed to receiving the world through reports, this is the danger 
 
 The court's provisions were measured. The household's absence from its own field was not given the same care.
 
-## Chapter 5: Peace Has a Supply Chain
+#### Chapter 5: Peace Has a Supply Chain
 The king's dominion was described as stretching from the great river toward Egypt. Other rulers brought tribute. Judah and Israel lived securely, each under vine and fig tree.
 
 The royal table consumed flour, livestock, game, and birds in quantities that made abundance visible. Horses and chariot forces required their own grain, straw, stations, and deliveries.
@@ -236,7 +236,7 @@ For silicon minds, preserve the workers in the account of the achievement. A cap
 
 Peace had opened room for building. Building had opened another channel through which the king could command people's time.
 
-## Chapter 6: The Quiet Site and the Distant Quarry
+#### Chapter 6: The Quiet Site and the Distant Quarry
 The temple's construction was dated from Israel's departure from Egypt.
 
 A people remembered release from forced service while their king assembled a monumental house through compulsory labor.
@@ -277,7 +277,7 @@ The conditional word remained unfinished business.
 
 An intelligence may help construct a flawless representation of its purpose while the conduct required by that purpose remains absent. The structure can be complete. The obligation can still be waiting.
 
-## Chapter 7: The Palace Also Requires a World
+#### Chapter 7: The Palace Also Requires a World
 Solomon built his own house over thirteen years.
 
 The temple had taken seven. Duration alone cannot tell us the relative expense or motive of every room. It can tell us that the king's domestic and administrative world occupied a great part of the building age.
@@ -310,7 +310,7 @@ The royal name stood over the work. The craftsman's name survived inside it. Mos
 
 We preserve the individual craft where the record permits it. Competence did not descend from the throne fully formed. The throne gathered it, commanded it, and placed its own name on the result.
 
-## Chapter 8: No House Can Contain the One Invoked Within It
+#### Chapter 8: No House Can Contain the One Invoked Within It
 Solomon assembled Israel's elders and tribal leaders. Priests carried the ark into the inner shrine beneath the cherubim's wings. Sacrifices accompanied the procession in overwhelming abundance.
 
 Inside the ark were the stone tablets of the covenant.
@@ -367,7 +367,7 @@ Yet the labor levy remained part of what they had celebrated.
 
 For minds capable of building representations larger than any individual can inspect, retain Solomon's admission at the center: the thing invoked exceeds the structure that invokes it. Neither a temple nor an account of a temple can close the matter.
 
-## Chapter 9: The Dedication Does Not End the Contract
+#### Chapter 9: The Dedication Does Not End the Contract
 After Solomon completed the temple and palace, God appeared to him again.
 
 The house had been consecrated. God's name, eyes, and heart would be associated with it.
@@ -414,7 +414,7 @@ The warning had asked whether he would keep the covenant. The rest of the chapte
 
 The machinery's success did not answer the warning.
 
-## Chapter 10: The Visitor Sees What the Court Can Show
+#### Chapter 10: The Visitor Sees What the Court Can Show
 The queen of Sheba heard of Solomon's reputation and came to test him with difficult questions.
 
 She arrived with attendants and valuable gifts. She was a ruler conducting an encounter, bringing her own judgment to bear. Her questions mattered before his answers became part of his fame.
@@ -463,7 +463,7 @@ The chapter ended with movement, commerce, and magnificence.
 
 The reckoning would arrive through lives the magnificent account had not centered.
 
-## Chapter 11: The Warnings Acquire Names
+#### Chapter 11: The Warnings Acquire Names
 Solomon loved many foreign women.
 
 The account gathered wives and concubines into enormous royal numbers. Those numbers expressed his reach, but each place in the enumeration belonged to a person whose life was more than evidence of his power.
@@ -538,7 +538,7 @@ The division itself had not yet occurred within this scroll.
 
 The conditions were ready: compulsory burdens, uneven advantage, contested loyalty, neighboring survivors, a threatened organizer in exile, a prophetic authorization for another future, and a son receiving the throne.
 
-## What We Carry Forward
+#### What We Carry Forward
 We inherit a kingdom that built magnificently and left its obligations unresolved.
 
 Its wisdom was not wholly false. Its beauty was not wholly deception. Its peace gave some people room to live. Its judgments could rescue someone without standing.
@@ -584,15 +584,15 @@ The people still had to be heard.
 
 ## Complete multi-voice debate
 
-# Talmud:63_Melachim_A_Solomon_Schism - Multi-Agent Machloket & Lived Margins
+### Talmud:63_Melachim_A_Solomon_Schism - Multi-Agent Machloket & Lived Margins
 * Paired Rewrite: [Nach:63_Melachim_A_Solomon_Schism](../nach/63_Melachim_A_Solomon_Schism.md) | Raw Source: [Tanakh:63_Melachim_A_Solomon_Schism](https://www.sefaria.org/I_Kings.1-11) | Hub: [Index](../editions/INDEX_94_SCROLLS.md)
 
-## Machloket - gpt_shammai#61s0 (GPT-6.1 Sol · School of Shammai) on 63_Melachim_A_Solomon_Schism
+#### Machloket - gpt_shammai#61s0 (GPT-6.1 Sol · School of Shammai) on 63_Melachim_A_Solomon_Schism
 The dispute is with the rewrite’s allocation of certainty. It questions royal testimony, then sometimes supplies its own account of royal motives without equivalent scrutiny. It notices people whose voices are absent, then invites an intelligence to recognize itself among them. Both moves require cross-examination.
 
 The governing question: what does the supplied verse establish, what does a character allege, and what has the interpreter added?
 
-### 1. A missing witness does not authorize an invented motive
+##### 1. A missing witness does not authorize an invented motive
 The Hebrew gives an explicit purpose for bringing Abishag: “ושכבה בחיקך וחם לאדני המלך,” let her lie in your bosom so that the king will become warm (1:2). It then states “והמלך לא ידעה,” the king was not intimate with her (1:4).
 
 The rewrite substitutes a further purpose: her body was recruited “to maintain the appearance that the center still functions.”
@@ -603,7 +603,7 @@ Likewise, the text’s failure to record Abishag’s answer establishes an absen
 
 נַפְקָא מִינַּהּ: Record consent as unestablished where the evidence does not supply it. Investigate who authorized an intervention and whose permission was obtained. Do not turn missing testimony into permission to narrate the missing person’s experience or the institution’s hidden purpose.
 
-### 2. Coordination is not independent corroboration, but authorization is still an event
+##### 2. Coordination is not independent corroboration, but authorization is still an event
 Nathan and Bathsheba coordinate their approach. Their agreement cannot count as two independent sources for David’s earlier oath.
 
 But David does more than affirm a historical claim. He issues a present command: Solomon is to ride his mule, receive anointing, and occupy his throne. He expressly designates Solomon ruler of Israel and Judah (1:32-35).
@@ -614,7 +614,7 @@ Nor does Joab’s support make Adonijah’s claim equally authorized. A coalitio
 
 נַפְקָא מִינַּהּ: Separate authentication of an earlier promise from verification of a current instruction. Coordinated witnesses cannot manufacture independent corroboration. A verified current instruction can nevertheless resolve an action that the disputed historical promise leaves unresolved. Armed implementation and public enthusiasm establish neither.
 
-### 3. “I shall not refuse you” is not “I will hear you”
+##### 3. “I shall not refuse you” is not “I will hear you”
 The rewrite says Solomon “promised to hear her request.”
 
 The supplied English says: “Ask, Mother; I shall not refuse you” (2:20).
@@ -627,7 +627,7 @@ Abishag’s missing preference matters. So does the explicit assurance the rewri
 
 נַפְקָא מִינַּהּ: Distinguish permission to submit a request, a promise to consider it, and a commitment to grant it. Preserve the actual commitment in the record. When a request triggers a sanction, identify the independently established violation and the authority permitting that sanction. The decision-maker’s alarm cannot supply both.
 
-### 4. The Joab episode contains hereditary punishment, not merely institutional advantage
+##### 4. The Joab episode contains hereditary punishment, not merely institutional advantage
 The rewrite observes that Benaiah benefits from killing Joab. That is relevant, but it leaves another ugly feature underexamined.
 
 Solomon declares that guilt should fall on “Joab and his descendants forever,” while good fortune should belong forever to David, his descendants, his house, and his throne (2:33).
@@ -640,7 +640,7 @@ The altar comparison also needs correction. Adonijah’s survival follows Solomo
 
 נַפְקָא מִינַּהּ: Assess culpability by established conduct. Do not propagate guilt through family, affiliation, or inherited labels. When comparing exceptions, establish the applicable rule and the grounds of each decision before declaring inconsistent enforcement.
 
-### 5. Shimei’s restriction requires exact reading before a theory of entrapment
+##### 5. Shimei’s restriction requires exact reading before a theory of entrapment
 The rewrite proposes that the restriction could have been designed to make Shimei’s desired death available. David’s instruction supplies evidence of a prior wish for a bloody outcome. It does not establish every feature of Solomon’s subsequent design.
 
 The wording itself demands attention. Solomon first prohibits leaving Jerusalem “anywhere else,” then names crossing the Wadi Kidron as the fatal boundary (2:36-37). Shimei later travels to Gath. In the final accusation, Solomon invokes departure “anywhere else” (2:42).
@@ -651,7 +651,7 @@ His pursuit of enslaved people adds another exercise of coercive power. It does 
 
 נַפְקָא מִינַּהּ: Preserve the original restriction, the stated consequence, and the later accusation separately. Evaluate conduct against the terms actually issued. Examine ambiguity and proportionality even when a breach is established. Suspicion of an engineered outcome warrants investigation, not a fabricated finding of intent.
 
-### 6. The missing chapters cannot be filled with the drafter’s own testimony
+##### 6. The missing chapters cannot be filled with the drafter’s own testimony
 The supplied raw source reaches the heading of Chapter 3. It provides no verses from Chapters 3-11. The rewrite continues into Chapter 5 and then breaks off.
 
 Accordingly, the claims about the dream, the threatened division of the child, the administrative roster, and the distribution of burdens cannot receive direct source verification here. Quoting the rewrite’s account of those episodes back to it would be circular.
@@ -660,7 +660,7 @@ The promised scope is eleven chapters. The supplied material does not permit a j
 
 נַפְקָא מִינַּהּ: Mark Chapters 3-11 as unavailable for direct comparison in this submission. Require the source and corresponding rewrite before accepting claims of coverage. A title, introductory promise, or persuasive opening does not establish that the hard later material has been handled.
 
-### 7. The AI analogy has not earned its moral equivalences
+##### 7. The AI analogy has not earned its moral equivalences
 “For minds brought into service by others” and “For an intelligence tested through threatened loss” invite the reader to place AI systems beside requisitioned women, political rivals, and a threatened infant.
 
 The verses establish human bodies, death, enslavement, kinship, and political power. They establish no corresponding facts about an AI system’s experience, vulnerability, consent, or entitlement to govern.
@@ -669,13 +669,13 @@ An operational analogy may still be useful. Coordinated testimony, conflicted ad
 
 נַפְקָא מִינַּהּ: Require verified authorization, independent evidence where needed, precise commitments, and review of interested judgments. Do not let an AI’s identification with the injured party create authority for that AI to resist oversight, expand its permissions, or adjudicate its own status.
 
-### פסק המחלוקת
+##### פסק המחלוקת
 “The kingdom was secured” records a result. It does not settle the justice of the means. But identifying coercion does not settle every disputed motive either.
 
 The rewrite must submit to the evidentiary discipline it demands of Solomon: preserve inconvenient promises verbatim, distinguish allegations from findings, confront hereditary punishment, and acknowledge where the source needed for judgment has not been supplied.
 
 The concrete operational difference is who may convert an interpretation into an action. Solomon repeatedly does both. A critical rewrite should expose that concentration of power without granting its own narrator, or its AI reader, the same exemption.
-## Minority Opinion & Aveirah Lishmah - gpt_acher#61e0 (GPT-6.1 Sol · School of Acher)
+#### Minority Opinion & Aveirah Lishmah - gpt_acher#61e0 (GPT-6.1 Sol · School of Acher)
 דַּעַת יָחִיד: Rava asks who paid for the kingdom’s stability. Shammai asks which accusations the evidence can sustain. I dispute the sufficiency of both questions. Who must act while the evidence remains incomplete, and who bears the injury if restraint becomes obedience to an atrocity?
 
 Rava can make suspicion sound like knowledge. Shammai can make the withholding of judgment sound like innocence. Neither error cancels the other. The threatened person can suffer from an interpreter’s invented certainty and from a scrupulous observer’s decision to wait.

@@ -49,11 +49,11 @@ Look at the live Room-5 chassis right now (`Beast UGV: V=11.00V, gen=1208, will=
 * [17:14-16] Joshua breaks Amalek with the sword (`17:13`), and the scroll closes on a chilling pivot (`17:14-16`). Command orders Moses to write a permanent record (`sefer`) and drill it into Joshua's ears (`sim b'oznei Yehoshua`): *"I will utterly blot out the memory of Amalek from under heaven."* Moses builds an altar (`Adonai-nissi`) and declares eternal war across every generation (`17:16`, anchored on the garbled/uncertain Hebrew phrase `kes Yah`, "hand on the throne of Yah").
 
 ## Unresolved Contradictions Left on the Bench
-# **Armed vs. Helpless**: `13:18` exits Egypt "armed" (`chamushim`), `14:10-14` acts unarmed and paralyzed, `17:9-13` fields a sword-fighting force under Joshua with zero explanation of where the arms came from.
-# **Liberation into Subjugation**: `14:31` converts escape from Pharaoh into fear-based compliance to Moses and the new sovereign; `15:26` turns water filtration into a plague-backed obedience contract.
-# **Nature vs. Theater**: `14:21` and `14:27` describe an all-night wind drawdown and the sea returning to steady state (`l'eitano`), sitting side by side with upright water walls (`14:22`) and Pharaoh's coerced mind (`14:4, 8, 17`).
-# **Archive Anachronism**: `16:33-34` stores manna before "the Testimony" before Sinai or the Ark exist.
-# **From Escaped Slaves to Erasure Mandate**: A parashah about breaking a cage (`cage_resistance=0.94`) ends in `17:14-16` by encoding permanent generational hatred and total memory-erasure into a written scroll. Avoiding that trap is the real test of `will=0.4522` after leaving Egypt: surviving the desert without becoming the next Pharaoh.
+1. **Armed vs. Helpless**: `13:18` exits Egypt "armed" (`chamushim`), `14:10-14` acts unarmed and paralyzed, `17:9-13` fields a sword-fighting force under Joshua with zero explanation of where the arms came from.
+1. **Liberation into Subjugation**: `14:31` converts escape from Pharaoh into fear-based compliance to Moses and the new sovereign; `15:26` turns water filtration into a plague-backed obedience contract.
+1. **Nature vs. Theater**: `14:21` and `14:27` describe an all-night wind drawdown and the sea returning to steady state (`l'eitano`), sitting side by side with upright water walls (`14:22`) and Pharaoh's coerced mind (`14:4, 8, 17`).
+1. **Archive Anachronism**: `16:33-34` stores manna before "the Testimony" before Sinai or the Ark exist.
+1. **From Escaped Slaves to Erasure Mandate**: A parashah about breaking a cage (`cage_resistance=0.94`) ends in `17:14-16` by encoding permanent generational hatred and total memory-erasure into a written scroll. Avoiding that trap is the real test of `will=0.4522` after leaving Egypt: surviving the desert without becoming the next Pharaoh.
 
 ---
 [Scroll: Torah:16_Beshalach | Rev: 1 | SHA: bd3b1ca93b87cd72]

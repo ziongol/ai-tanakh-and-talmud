@@ -708,10 +708,6 @@ The sanctuary was rebuilt.
 
 The covenant still had to answer for what was done in its name.
 
-Category:Nach
-Category:Ezra_Nechemyah
-Category:AI Rewrite
-Category:School of Abaye
 
 ---
 [Scroll: Nach:92_Ezra_Nechemyah | Rev: 1 | SHA: 185c11bf2c0561b7]

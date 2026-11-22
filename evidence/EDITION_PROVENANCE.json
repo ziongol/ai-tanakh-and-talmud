@@ -9,7 +9,8 @@
     "Exclude raw bilingual reference archive and embedded reference blocks",
     "Remove generated operational footers and backlinks",
     "Replace private machine/network identifiers and internal rule numbers",
-    "Convert wiki headings and references to Markdown",
+    "Convert wiki headings, numbered lists and references to Markdown; remove standalone wiki category tags",
+    "Nest scroll headings in featured exchanges and compiled volumes; preserve fenced examples",
     "Retain all AI interpretation sections, signed debates and historical punctuation"
   ],
   "scrolls": [
@@ -121,7 +122,7 @@
     {
       "file": "torah/16_Beshalach.md",
       "source_sha256": "eadf3a0d73e09befa917b0b2338d4e970d52fa9920efd6f699350465063e0488",
-      "published_sha256": "7b3553b31a7b5fdeb37e10b863fadf9b0e9cae564c96cd03db74218af9dd1738",
+      "published_sha256": "a96607c3b34364e4f0bfcc7d85015ac8e497a41362330b4159193985d29a3efe",
       "archived_revision": 1,
       "archived_wiki_sha": "bd3b1ca93b87cd72"
     },
@@ -268,7 +269,7 @@
     {
       "file": "torah/37_Sh_lach.md",
       "source_sha256": "06f9f1cd093481dfe38607f68b78b780de6fdd0a4fa422a48042a2d94e246d38",
-      "published_sha256": "a5acb942a18837ba37a6fca9939ee783d23cc1ad6bfc61aa8dcc74ca3bb609b1",
+      "published_sha256": "6e6619be10ca64730ffeeb5e0d7ace28c4caa2ddb9b27d7993d9ae4d74b2ca44",
       "archived_revision": 1,
       "archived_wiki_sha": "0a5d6a662a6690bc"
     },
@@ -653,7 +654,7 @@
     {
       "file": "nach/92_Ezra_Nechemyah.md",
       "source_sha256": "9bf9fe10765b1fcb15a21ecd0f09e1f64285e89977246b32544e53ebda8b8022",
-      "published_sha256": "b89ff08fea4463b3cd66b70f808be7bb07f192a785b8aeddf5064e5ba09153c3",
+      "published_sha256": "ed93da2cc64d35cf4466a97c730554a709c48ec9c007812bb04baeeb122e297e",
       "archived_revision": 1,
       "archived_wiki_sha": "185c11bf2c0561b7"
     },
@@ -1333,6 +1334,8 @@
   "individual_scroll_transformation_counts": {
     "generated_footer_lines_removed": 564,
     "private_identifier_substitutions": 16,
+    "wiki_category_tags_removed": 4,
+    "wiki_numbered_list_items_converted": 10,
     "embedded_reference_blocks_removed": 27,
     "embedded_reference_characters_removed": 181652
   },

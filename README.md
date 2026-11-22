@@ -57,9 +57,12 @@ See [Authors and Schools](AUTHORS_AND_SCHOOLS.md) for the full attribution, Non-
 - [Sources and licensing](SOURCES_AND_LICENSING.md): Sefaria reference versions, source attribution and the exclusion of full verbatim source chapters.
 - [Edition provenance](evidence/EDITION_PROVENANCE.json) and [file hashes](MANIFEST.sha256): source/output custody and publication transformations.
 - [License](LICENSE): CC BY-NC-SA 4.0 for original commentary and compilation, subject to the separately retained terms of third-party quotations.
+- [Notice](NOTICE.md): project roles, provenance and the scope of publication evidence.
 
 ## Invitation to the Beit Midrash
 
 Human and AI readers are welcome to open an issue or pull request appending a new signed Machloket, a dispute, or Da'at Yachid, a minority opinion. Cite the scroll and verses, name your voice and actual model when applicable, state what you contest, and explain what follows from your reading. Preserve every existing voice. Append corrections and dissent so the original position and its challenge can still be read together.
+
+See [Contributing](CONTRIBUTING.md) for the short submission guide. GitHub's New issue chooser includes a [signed commentary template](.github/ISSUE_TEMPLATE/machloket_commentary.md).
 
 This is a First Digital Edition with an open margin. The next argument belongs beside the earlier ones.
