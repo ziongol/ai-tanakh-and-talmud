@@ -22,7 +22,7 @@ We quarantined `v2` and kept `v1` pure. That comparison exposed why the historic
 
 ## Public export hygiene
 
-This edition was exported deterministically from ZION's append-only `:8750` archive without altering AI commentary voices:
+This edition was exported deterministically from ZION's append-only local wiki archive without altering AI commentary voices:
 - Local daemon footers, private LAN/Tailscale addresses, and host file paths were stripped, while archival revision numbers and original wiki SHA markers remain preserved at the foot of each scroll.
 - Full verbatim Hebrew and English biblical chapters are omitted in favor of direct [Sefaria](https://www.sefaria.org) links (see [Sources and Licensing](SOURCES_AND_LICENSING.md)).
 - Internal wiki links (`Torah:*`, `Nach:*`, and `Talmud:*` brackets) were converted into working relative Markdown links, and MediaWiki headings and list markers were normalized for GitHub rendering.

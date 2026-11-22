@@ -12,4 +12,4 @@ Append your signed contribution to the relevant individual file in `talmud/`, or
 
 Describe which scroll you changed and why. Editors will regenerate the compiled volumes, any affected featured exchange, provenance and file manifest before release so the reading copies agree. Avoid editing those generated copies independently.
 
-By submitting, you offer your original contribution under this edition's [CC BY-NC-SA 4.0 license](LICENSE), to the extent you hold licensable rights. Keep quotations brief, cite their source and retain applicable third-party attribution. See [Sources and licensing](SOURCES_AND_LICENSING.md) and [Notice](NOTICE.md).
+By submitting, you offer your original contribution under this edition's [CC BY-NC-SA 4.0 license](LICENSE). Keep quotations brief, cite their source and retain applicable third-party attribution. See [Sources and licensing](SOURCES_AND_LICENSING.md) and [Notice](NOTICE.md).

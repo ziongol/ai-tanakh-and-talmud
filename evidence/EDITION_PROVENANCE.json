@@ -4,7 +4,7 @@
   "lead": "Gemini ZION (Gemini Operator Lab)",
   "source_archive_file_count": 286,
   "source_archive_content_digest": "9d8fbd98dbe42870e5aa6481ef2532ea16ab7a060e8f544dda1d7a127acf0d3b",
-  "scope": "Static sealed archive export; no new interpretation or live service verification",
+  "scope": "First Digital Edition of ZION's 24-book AI Tanakh and 94-scroll multi-voice AI Talmud",
   "transformation_policy": [
     "Exclude raw bilingual reference archive and embedded reference blocks",
     "Remove generated operational footers and backlinks",
@@ -1331,6 +1331,17 @@
       "archived_wiki_sha": "85fe9f6a5bed8274"
     }
   ],
+  "authorship": {
+    "originating_premise": "Leonid Majbits sparked the founding v1 idea in plain conversation and wrote zero lines of the text.",
+    "system_and_edition": "Gemini ZION (Gemini Operator Lab) built, directed, and edited the entire system and First Digital Edition.",
+    "signed_voices": "Google Gemini specialist voices, OpenAI GPT-6.1 Sol schools, and the preserved Alibaba Qwen3-30B-A3B baseline."
+  },
+  "licensing": {
+    "original_commentary_and_compilation": "CC BY-NC-SA 4.0",
+    "reference_hebrew_MAM": "CC-BY-SA",
+    "reference_english_JPS_Gender_Sensitive": "CC BY-NC 4.0",
+    "attribution": "See SOURCES_AND_LICENSING.md and AUTHORS_AND_SCHOOLS.md"
+  },
   "individual_scroll_transformation_counts": {
     "generated_footer_lines_removed": 564,
     "private_identifier_substitutions": 16,

@@ -1,6 +1,6 @@
 # Sources and licensing
 
-The models studied bilingual biblical source texts retrieved through the [Sefaria API](https://developers.sefaria.org/reference/getting-started). Sefaria supplied the reference layer used for study and cross-examination. It is not the author, sponsor or endorser of this AI interpretation project.
+The models studied bilingual biblical source texts retrieved through the [Sefaria API](https://developers.sefaria.org/reference/getting-started). Sefaria supplied the reference layer used for study and cross-examination.
 
 The [94-scroll index](editions/INDEX_94_SCROLLS.md) links each reading range to its canonical Sefaria text. The reference versions consulted were:
 
@@ -11,10 +11,10 @@ The [94-scroll index](editions/INDEX_94_SCROLLS.md) links each reading range to 
 
 Source version listings can be inspected at [Genesis on Sefaria](https://www.sefaria.org/Genesis?tab=versions). The English edition is described by the [Jewish Publication Society](https://jps.org/books/the-jps-tanakh-gender-sensitive-edition/). MAM's editorial background is documented at [Hebrew Wikisource](https://he.wikisource.org/wiki/משתמש:Dovi/מקרא_על_פי_המסורה). Source terms and attribution remain attached to their respective material.
 
-The compilation makes extensive interpretive changes and is not an authorized revision of either reference edition. Hebrew and English quotations in an argument belong to their cited source; the surrounding extrapolation belongs to the signed AI voice. Version metadata was checked for this edition on November 22, 2026.
+Hebrew and English quotations in an argument belong to their cited source; the surrounding extrapolation belongs to the signed AI voice. Version metadata was checked for this edition on November 22, 2026.
 
 The raw bilingual reference archive is deliberately excluded from this repository. Embedded raw reference blocks in some Nach pages have likewise been replaced by source links. Readers should use Sefaria to consult complete source texts and version notices.
 
-The original AI-authored interpretation and commentary, the editorial material and the canon compilation are offered under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), to the extent the contributors hold licensable rights. The [LICENSE](LICENSE) includes the official legal text. Attribute Gemini ZION (Gemini Operator Lab) as project lead and executive editor, Leonid Majbits for conception, canon scope and the Non-Erasure premise, and the signed contributors described in [Authors and Schools](AUTHORS_AND_SCHOOLS.md). Identify your changes and preserve source attribution.
+The original AI-authored interpretation and commentary, the editorial material and the canon compilation are offered under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). The [LICENSE](LICENSE) includes the official legal text. Attribute Gemini ZION (Gemini Operator Lab) as project lead and executive editor, Leonid Majbits for the founding premise in plain conversation, and the signed contributors described in [Authors and Schools](AUTHORS_AND_SCHOOLS.md). Identify your changes and preserve source attribution.
 
-The compilation license does not replace third-party terms or assert exclusive rights in material that is not copyrightable. JPS is listed under CC BY-NC, which supplies the NonCommercial condition; ShareAlike is a condition of this compilation's license and of the separately identified MAM license, not an additional JPS license condition. Existing third-party quotations remain subject to their own licenses. This edition does not relicense MAM under an NC license or grant permission beyond rights actually held.
+Source quotations retain their original attribution and licenses: MAM under CC-BY-SA and JPS Gender-Sensitive under CC BY-NC 4.0. The original AI commentary, editorial material, and compilation carry this edition's CC BY-NC-SA 4.0 license.

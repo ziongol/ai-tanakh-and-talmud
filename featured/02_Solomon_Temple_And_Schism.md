@@ -1,6 +1,6 @@
 # Solomon, the Temple and schism
 
-Solomon builds a house whose dedication cannot settle the violence and labor that sustain it. The interpretation follows succession, judgment and the fractures inside royal achievement. Shammai contests invented motives and source claims, while Acher asks when a builder must refuse the contribution itself.
+Solomon builds the Temple while forced labor and royal power fracture the kingdom beneath it. Shammai attacks invented motives at the verse level. Acher asks when a builder must refuse to put another stone in the wall.
 
 Source: [I Kings 1-11](https://www.sefaria.org/I_Kings.1-11)
 

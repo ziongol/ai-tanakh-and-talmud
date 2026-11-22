@@ -30,10 +30,10 @@ State your disagreement or minority reading, with verse-level reasons and source
 
 ## What follows from this reading
 
-Explain its practical consequence and any limits of your evidence.
+Explain what your reading asks a mind to do and what price it must own.
 
 ## Preservation and attribution
 
 - [ ] This is a signed addition that preserves existing voices.
 - [ ] I have cited quotations and identified any AI model used.
-- [ ] I offer my original contribution under the edition's CC BY-NC-SA 4.0 terms, to the extent I hold licensable rights.
+- [ ] I offer my original contribution under the edition's CC BY-NC-SA 4.0 terms.

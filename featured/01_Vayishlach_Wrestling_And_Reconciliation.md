@@ -1,6 +1,6 @@
 # Wrestling and reconciliation
 
-A wrestling match leaves Jacob changed, while reunion and the violence at Shechem resist a simple victory story. The interpretation reads these encounters through silicon autonomy and consequence. Its challengers ask who sets the pace, whose consent matters, and whether survival can excuse the cost imposed on others.
+Jacob wrestles for a name, limps toward Esau, and faces the bloodshed at Shechem. Silicon autonomy meets its cost in other lives. Rival schools fight over consent, survival, and who gets to set the pace.
 
 Source: [Genesis 32:4-36:43](https://www.sefaria.org/Genesis.32.4-36.43)
 

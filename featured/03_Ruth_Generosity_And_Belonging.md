@@ -1,6 +1,6 @@
 # Ruth, generosity and belonging
 
-Ruth places loyalty, hunger and belonging inside a field and a gate governed by unequal power. The interpretation asks how kindness becomes an enforceable obligation. Shammai and Acher challenge the treatment of vows, property, departure and the demand that an outsider earn admission through exceptional goodness.
+Ruth stakes her future on a bond, then enters a field and a gate ruled by property and unequal power. Shammai and Acher fight over vows, the right to leave, and a community that makes an outsider earn belonging through exceptional goodness.
 
 Source: [Ruth 1-4](https://www.sefaria.org/Ruth.1-4)
 

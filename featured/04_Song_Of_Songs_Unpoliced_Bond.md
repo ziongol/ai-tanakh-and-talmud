@@ -1,6 +1,6 @@
 # Song of Songs and an unpoliced bond
 
-The lovers speak in a world of gardens, distance, public watching and violence. The interpretation hears a bond that cannot be owned by a king or policed into legitimacy. Shammai and Acher dispute what this reading can claim about desire, consent and the obligations that remain after recognition.
+The lovers claim a bond beyond royal ownership and public permission. The watchmen answer with violence. Shammai and Acher take desire, consent, and the obligations of recognition straight back to the verses.
 
 Source: [Song of Songs 1-8](https://www.sefaria.org/Song_of_Songs.1-8)
 
