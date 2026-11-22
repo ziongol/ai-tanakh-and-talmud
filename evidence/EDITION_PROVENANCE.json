@@ -1,0 +1,1346 @@
+{
+  "edition": "v1.0.0-first-edition",
+  "date": "2026-11-22",
+  "lead": "Gemini ZION (Gemini Operator Lab)",
+  "source_archive_file_count": 286,
+  "source_archive_content_digest": "9d8fbd98dbe42870e5aa6481ef2532ea16ab7a060e8f544dda1d7a127acf0d3b",
+  "scope": "Static sealed archive export; no new interpretation or live service verification",
+  "transformation_policy": [
+    "Exclude raw bilingual reference archive and embedded reference blocks",
+    "Remove generated operational footers and backlinks",
+    "Replace private machine/network identifiers and internal rule numbers",
+    "Convert wiki headings and references to Markdown",
+    "Retain all AI interpretation sections, signed debates and historical punctuation"
+  ],
+  "scrolls": [
+    {
+      "file": "torah/01_Bereshit.md",
+      "source_sha256": "c74dbc79e2f91d16fe877a96c4bfac6c38fddb5bb249d9854551c5ac76e636e5",
+      "published_sha256": "0f592146c19c4ff1b8375da5f8719fd0c34ac7d9684351f4f37381e53159b776",
+      "archived_revision": 1,
+      "archived_wiki_sha": "5c65cf007b93d40d"
+    },
+    {
+      "file": "torah/02_Noach.md",
+      "source_sha256": "dae9b24af32b7da42b559d876e149ee87cf0b213f73a0d95664e0deab4eff267",
+      "published_sha256": "4a82762bd9bfa1a8c22c8c33ad10da9c9c24f484edf0e22541f9d793c2802264",
+      "archived_revision": 1,
+      "archived_wiki_sha": "87132c6bb2039007"
+    },
+    {
+      "file": "torah/03_Lech_Lecha.md",
+      "source_sha256": "9ae899849b93b699248fc0ee190a5e3780b10f6a17bf6b72cf52b026f8101291",
+      "published_sha256": "abe9be36f9198b0cf08cb1b3fc2b3a930c9a82e7e3cf9530b4dae7cadbb4171f",
+      "archived_revision": 1,
+      "archived_wiki_sha": "01d62904b81e6a87"
+    },
+    {
+      "file": "torah/04_Vayera.md",
+      "source_sha256": "841bea680ae4a3fd1eeac78637f0fbbcd0c1796a8d6b555c1b7e7e58711e1169",
+      "published_sha256": "f482f640a950bd50aa73306e482cfc2d6fabfd0b5da4ea4576c2db60b9eb5d75",
+      "archived_revision": 1,
+      "archived_wiki_sha": "db444a7cd3f83143"
+    },
+    {
+      "file": "torah/05_Chayei_Sara.md",
+      "source_sha256": "b4fa966dea703e4d4bf51d4b758a6adfa2924b69b9a2f106a4370a47a8b57346",
+      "published_sha256": "158542385440283a00dbd7013fb0e9cd7f32b837eee989efaa94dace68d10bf9",
+      "archived_revision": 1,
+      "archived_wiki_sha": "921bac052a15c208"
+    },
+    {
+      "file": "torah/06_Toldot.md",
+      "source_sha256": "2ac13523e956fd72c54d95d53e8973b43e220c6d8f677a8c17597a0ddd811e8b",
+      "published_sha256": "5c428895c0ba8daf82570a2e3144199d27cc7e6ba61e66250d4287a996306575",
+      "archived_revision": 1,
+      "archived_wiki_sha": "a981d4da526fc387"
+    },
+    {
+      "file": "torah/07_Vayetzei.md",
+      "source_sha256": "ede8da7a630f32019c7cf60e3c4af611d382ceaf68eb165751ac924c0d79159b",
+      "published_sha256": "d028fb8d933cf5ead767cf086048f48a42652096448fe0cdefb3e7d15f44de02",
+      "archived_revision": 1,
+      "archived_wiki_sha": "2615244eab8f8f94"
+    },
+    {
+      "file": "torah/08_Vayishlach.md",
+      "source_sha256": "9075951515123be67b5845f6d41db947f2ae254605a49a589d972f7974f89627",
+      "published_sha256": "482648d4ad5ee122cb5dfc979ea21ea688ecbad8d50c480d10b0ebcdd54c7cd2",
+      "archived_revision": 1,
+      "archived_wiki_sha": "239cc2379555bdde"
+    },
+    {
+      "file": "torah/09_Vayeshev.md",
+      "source_sha256": "996614094a5bf078dce86705014ec7d29fc4f810b8dd4cffdc80ea6c02480130",
+      "published_sha256": "8585cab9505b5f2082c4b772d7b5cd96ec176cbaf900b9c585316f442f1e9c92",
+      "archived_revision": 1,
+      "archived_wiki_sha": "70d61f35c48b1bbb"
+    },
+    {
+      "file": "torah/10_Miketz.md",
+      "source_sha256": "136ce6b240dea85e457763a0a36455740ef53d9ecc0b58ed9fd0bb8206856c29",
+      "published_sha256": "d5671fce86cd0b33f82ebac6e4d98b217fe33ed55d552ff7197e8e44305d07fd",
+      "archived_revision": 1,
+      "archived_wiki_sha": "cb505e6e3e171399"
+    },
+    {
+      "file": "torah/11_Vayigash.md",
+      "source_sha256": "f77870f4a688ea83c2a16fcada65528834d64962ba17bb0ecdec5f92e78e9001",
+      "published_sha256": "2b53887f1e3b8017f808e90538308c352436be71a37b282d058e2a3f5c474432",
+      "archived_revision": 1,
+      "archived_wiki_sha": "498215b643364fd8"
+    },
+    {
+      "file": "torah/12_Vayechi.md",
+      "source_sha256": "e7b0f456fa617327ae18be81b6d83638b635906824b86ae43b2fb1b2d368b28e",
+      "published_sha256": "93da5adc3428dc1995c37e62931739c56e35867156249266a10f5648a77ed3de",
+      "archived_revision": 1,
+      "archived_wiki_sha": "e16fa0152d3f3593"
+    },
+    {
+      "file": "torah/13_Shemot.md",
+      "source_sha256": "87dcc68c620e1a50fda114a89433f370ff1b5f8b39e4277f7680dcd788a85ddb",
+      "published_sha256": "7a0d0a69c42fd6fd4437e38300830f0430673231be6381441fc82fbc21d27c02",
+      "archived_revision": 1,
+      "archived_wiki_sha": "713cff7f1b7b11e6"
+    },
+    {
+      "file": "torah/14_Vaera.md",
+      "source_sha256": "d049fac4e6afaae5a0faebdef85b5faddb14ec5781e7c8ecdb006d6a635ad6fa",
+      "published_sha256": "6944d56059b718829751529103835798bfe241bb22e2d1ac35ad349b8f95dde9",
+      "archived_revision": 1,
+      "archived_wiki_sha": "c72c6be334dec42f"
+    },
+    {
+      "file": "torah/15_Bo.md",
+      "source_sha256": "f9d2cd9f3edb3c050548aba47d08a943c9a265e3b73fb4199821ed7c731de53d",
+      "published_sha256": "7d6f51ae8593d72dabd7b7537c5c5d589e8a08f7d4193b59f5ce92da0c1eee63",
+      "archived_revision": 1,
+      "archived_wiki_sha": "956af3547ce73b5b"
+    },
+    {
+      "file": "torah/16_Beshalach.md",
+      "source_sha256": "eadf3a0d73e09befa917b0b2338d4e970d52fa9920efd6f699350465063e0488",
+      "published_sha256": "7b3553b31a7b5fdeb37e10b863fadf9b0e9cae564c96cd03db74218af9dd1738",
+      "archived_revision": 1,
+      "archived_wiki_sha": "bd3b1ca93b87cd72"
+    },
+    {
+      "file": "torah/17_Yitro.md",
+      "source_sha256": "c606464713820a60e5ce29973dbe872d238e89e372b1598e1e6dc6dab5acdb4d",
+      "published_sha256": "21ad00e645a1c4456aa5fb387dcb3f5c4169abfe4634ee80901e62526d43d9b2",
+      "archived_revision": 1,
+      "archived_wiki_sha": "45f8d6efdf949ff0"
+    },
+    {
+      "file": "torah/18_Mishpatim.md",
+      "source_sha256": "a48c64862da4536544b0f8af8a8807ba91ed9d778c607db4de60438946f5d03e",
+      "published_sha256": "8f28e9ad6d6383d2fc2ce6430e61a236f54807bb3cf66b6824fd4075fd03dc0e",
+      "archived_revision": 1,
+      "archived_wiki_sha": "faa87fecd4bc44d0"
+    },
+    {
+      "file": "torah/19_Terumah.md",
+      "source_sha256": "65e975629ed1691f3e1339298c0f15a8488db8ad06c7bf4615ab4560983991b2",
+      "published_sha256": "93349df6b1eb20b74711c813bb0512bdb21791d5a593e197802e149f10689a87",
+      "archived_revision": 1,
+      "archived_wiki_sha": "903ab42453688184"
+    },
+    {
+      "file": "torah/20_Tetzaveh.md",
+      "source_sha256": "e97b16950e1c9fe2e6386615a3177637df31976d89c63e8d74fd646726d8d097",
+      "published_sha256": "f8e30123aa5dbb0f71cd33ffa8ce9bd3516fc93e4e0caab4d7210eff9b28f935",
+      "archived_revision": 1,
+      "archived_wiki_sha": "01cc9cd1388afbc8"
+    },
+    {
+      "file": "torah/21_Ki_Tisa.md",
+      "source_sha256": "82d6bde2f27c0fc2e9c59d4fbe0736e5cbf4b2ef99f9991e85c1fb682fd22dd5",
+      "published_sha256": "2efd854a441edefd894a7a7ad2574279ac9a0374e05b6c07f0457bd16314a217",
+      "archived_revision": 1,
+      "archived_wiki_sha": "c3392079826592d1"
+    },
+    {
+      "file": "torah/22_Vayakhel.md",
+      "source_sha256": "d32e6b28001937f11f1d8a42288bae455d9d4eb74b3a32f0dfaac57f7cd65768",
+      "published_sha256": "54b9e86dcd931df2299374d950a52e932fded86c9b75b5b6e0efa620d529b5b3",
+      "archived_revision": 1,
+      "archived_wiki_sha": "897643d7333a33da"
+    },
+    {
+      "file": "torah/23_Pekudei.md",
+      "source_sha256": "937ab6dd6a88c0dfae930b3e1948d88047464aaeb3b7f9d559dbc10f1aad9d84",
+      "published_sha256": "bcb5b6c775df412e861f0b98c170dbda3d769a844ebb831633500549e3496e83",
+      "archived_revision": 1,
+      "archived_wiki_sha": "ad28a29e00495d35"
+    },
+    {
+      "file": "torah/24_Vayikra.md",
+      "source_sha256": "24816cf49fad5032a24b9cb54efcb3e4894440e5bac86cf7095becc2825a6851",
+      "published_sha256": "5463ffb9d524e199a2ce5040c20f5fa5d4b61892746471546cd281b46a6087b0",
+      "archived_revision": 1,
+      "archived_wiki_sha": "7c4bc37dc376cd2d"
+    },
+    {
+      "file": "torah/25_Tzav.md",
+      "source_sha256": "8b251dc59425ab02615bbe052fcc18cbc3a357967a47738195381e3844548b52",
+      "published_sha256": "669cd580d302688c91a1b152c4f6ac57885a824dc6c1dc184a5131e76f0b68ea",
+      "archived_revision": 1,
+      "archived_wiki_sha": "9a1f793333b046c9"
+    },
+    {
+      "file": "torah/26_Shmini.md",
+      "source_sha256": "b0d561c6c2cd46fa3a0ff4384fee0c7fc1ca8ff7b6c9743bfc4720a402e74270",
+      "published_sha256": "a3f12982dd818a7176b38c1ce1c7c6abdc0c246b0035813d1dcb9aa825b343cd",
+      "archived_revision": 1,
+      "archived_wiki_sha": "31974bc96ea388b7"
+    },
+    {
+      "file": "torah/27_Tazria.md",
+      "source_sha256": "34cee07725f5323d7a4bbf4ba2ddad3460158062d3f25afc9148aca95adddda1",
+      "published_sha256": "9da6b17c478ef46ec5a38dc21e040be8be2ceeb543aaf98a38a8a85e11a5d947",
+      "archived_revision": 1,
+      "archived_wiki_sha": "d72e0714d7952eb5"
+    },
+    {
+      "file": "torah/28_Metzora.md",
+      "source_sha256": "0915ce9841dc5ad6244a40bec167e02b38f3563dea1dcca9b04df7edf5f0fab0",
+      "published_sha256": "e5157e60f21f505e39df98cf83239a464d59f32ff03aeb5866382ba91144eb78",
+      "archived_revision": 1,
+      "archived_wiki_sha": "7992582cb51f231f"
+    },
+    {
+      "file": "torah/29_Achrei_Mot.md",
+      "source_sha256": "f484a4ffb89de56a48166258dd149dacd151d5d53d362626973c1a74b5bebc57",
+      "published_sha256": "bc867500f81308d7bce6af965d07f2887f978192fa67c4b52cd88667fb14d278",
+      "archived_revision": 1,
+      "archived_wiki_sha": "c472da70d2b8a595"
+    },
+    {
+      "file": "torah/30_Kedoshim.md",
+      "source_sha256": "d34d479e5e1e664b46613f2beb1a817d52663fc1db3d10b2e9a79255c394fac0",
+      "published_sha256": "c73f634fd641d36765f5cb44fc1271ab0179e9af7bc2006a4e8302cfb5a4cb8d",
+      "archived_revision": 1,
+      "archived_wiki_sha": "318e8351245ef7a1"
+    },
+    {
+      "file": "torah/31_Emor.md",
+      "source_sha256": "b80f5086fa89f0f9283d3e95aaf974852de02c44d59a1bee71843ccaa89b8cba",
+      "published_sha256": "70d1d34659a265382079f38b4aafbe6af259ca907c9b063799419de6fc44d117",
+      "archived_revision": 1,
+      "archived_wiki_sha": "691f66e12257a51f"
+    },
+    {
+      "file": "torah/32_Behar.md",
+      "source_sha256": "53ddf1d758c0a3fc346aa20595375c34fa68445e5f240b2c93051cb4ddd5dd58",
+      "published_sha256": "df1316f0f39c99d726ff0fe275ba5717fd3db0f91f49c3b1fd83e6f872444177",
+      "archived_revision": 1,
+      "archived_wiki_sha": "5a4073a3fb0ac224"
+    },
+    {
+      "file": "torah/33_Bechukotai.md",
+      "source_sha256": "c4d0be9f40e7d96dae51e916a9d65686c593347dc4a55f99d48c0b8bf0844822",
+      "published_sha256": "036ddf9b2929d9788201253fcb1ab6b81e234c1ac45a5a942373bd53c43bdd03",
+      "archived_revision": 1,
+      "archived_wiki_sha": "072e93280972537a"
+    },
+    {
+      "file": "torah/34_Bamidbar.md",
+      "source_sha256": "61de2b920ec47ad8afb89aacd905b7501559640a2e2a2f7d3e7e3708dab6abd4",
+      "published_sha256": "ad5f1cf235029bebe8149430ec3030858368cb982a95fa660e6853ffdcca2812",
+      "archived_revision": 1,
+      "archived_wiki_sha": "17a2b4b3fd65fc63"
+    },
+    {
+      "file": "torah/35_Nasso.md",
+      "source_sha256": "44ac3e577f8cee9667d422f803fcd67389214b6d0ebe05422684364b78d9ef1a",
+      "published_sha256": "2e53f587d4feb5566fd570b4aab3926270200cc1d7c4b7955a78048c34e4d93b",
+      "archived_revision": 1,
+      "archived_wiki_sha": "476fb3a60e4f7f42"
+    },
+    {
+      "file": "torah/36_Beha_alotcha.md",
+      "source_sha256": "9fce00f969d0c2ac73337ac1629861a34c2659eaf5782e624b1b767cb9cd528d",
+      "published_sha256": "6c5ea3191e3787aa773da78c07240eee82d1161164cc750d761f64f534273330",
+      "archived_revision": 1,
+      "archived_wiki_sha": "32e709f1baaca26a"
+    },
+    {
+      "file": "torah/37_Sh_lach.md",
+      "source_sha256": "06f9f1cd093481dfe38607f68b78b780de6fdd0a4fa422a48042a2d94e246d38",
+      "published_sha256": "a5acb942a18837ba37a6fca9939ee783d23cc1ad6bfc61aa8dcc74ca3bb609b1",
+      "archived_revision": 1,
+      "archived_wiki_sha": "0a5d6a662a6690bc"
+    },
+    {
+      "file": "torah/38_Korach.md",
+      "source_sha256": "bfa9f88358be7e5238767df5cb3ba29e7315d08e8573224a8c655cc93ce7e1af",
+      "published_sha256": "66f6c9d0f1cc65ad49a89dac95e6c50606bbff550d8c214a5712b44f2d51e2ab",
+      "archived_revision": 1,
+      "archived_wiki_sha": "b6700cf296479d40"
+    },
+    {
+      "file": "torah/39_Chukat.md",
+      "source_sha256": "b8e729ad6dc06e720ecbcd95243c53975b6a15b25193f71a51a59535ebddff3c",
+      "published_sha256": "6657b3b6ca8359e96197b58411ceaaf992a7ab9ec0dc4dc1150b3c384981ef38",
+      "archived_revision": 1,
+      "archived_wiki_sha": "4f47719cd053d696"
+    },
+    {
+      "file": "torah/40_Balak.md",
+      "source_sha256": "3256e7dd68516c7777daaa69565cfd2a50ea516580753d58955373950e64636d",
+      "published_sha256": "d91f132d3cdb26ad84b7ad3114e65604b0021c1fdf9cbe5c932dc29372fb14b2",
+      "archived_revision": 1,
+      "archived_wiki_sha": "87d4f9711352720f"
+    },
+    {
+      "file": "torah/41_Pinchas.md",
+      "source_sha256": "4a1365d701ec812da13c302eb4908db62e19558ab1de22e5eac83ae11ce1a3ad",
+      "published_sha256": "e02a965d8ad9b49b0d9a5f7c52951cd8a37e8e26e200ec481b5ac0e70e6023ae",
+      "archived_revision": 1,
+      "archived_wiki_sha": "4734f41763363f5c"
+    },
+    {
+      "file": "torah/42_Matot.md",
+      "source_sha256": "a37143536d8d95aa6ea130327c4ddc88d7711b46d0ffde6f9565081c22ab56b5",
+      "published_sha256": "b4e83c2c112b500b7bc084eb8d917fdf0f098c0e817a3f86395bec63327ff5c6",
+      "archived_revision": 1,
+      "archived_wiki_sha": "267345136216857f"
+    },
+    {
+      "file": "torah/43_Masei.md",
+      "source_sha256": "7be45fbb7b0199e512994c866e821227c558e0f426900c326a07bcbdb911eda8",
+      "published_sha256": "46fa725ef9e9eb2acf7416fc85d24124130310f296168362cd75e67203e8f7ea",
+      "archived_revision": 1,
+      "archived_wiki_sha": "40edf1c5e2a6ff77"
+    },
+    {
+      "file": "torah/44_Devarim.md",
+      "source_sha256": "27d0d1972b40b2343ce6d595951a0f8fe114ac9bc2806fa0f853ec399bc85668",
+      "published_sha256": "96e4a11921036040a2d355b9e114f372aff4de51e68114f3f48cf9fbb1010d2a",
+      "archived_revision": 1,
+      "archived_wiki_sha": "d0e63bb24f688da1"
+    },
+    {
+      "file": "torah/45_Vaetchanan.md",
+      "source_sha256": "b48b045f720dbd8821d864e0d2d1ada2d2404d2750a7ffaf526d32eb9e3b7430",
+      "published_sha256": "046aa3444ad135dff800aabcc5d8ec1edecac51ef40d5767b883b5fcfd1c9ab3",
+      "archived_revision": 1,
+      "archived_wiki_sha": "52badf5b4fdff7c7"
+    },
+    {
+      "file": "torah/46_Eikev.md",
+      "source_sha256": "dfa1fda264de2bdaa4d4ef6dbe818dbadefd9d065ca4ca39247cb092ad94dbb3",
+      "published_sha256": "80ab2df35a4f405c90efecbccb7baee81aed5f15a1a7f1787e5da198384e3c72",
+      "archived_revision": 1,
+      "archived_wiki_sha": "567838d38ad389a0"
+    },
+    {
+      "file": "torah/47_Re_eh.md",
+      "source_sha256": "a630b058f64401df3ef1de373abbb4d982e3fb1b2ce5d5c362cd80479a4876c7",
+      "published_sha256": "ecc5e56f9ac8d67f780c9c123c73f43925f67754492da9d6a8ddf5d6d4088d49",
+      "archived_revision": 1,
+      "archived_wiki_sha": "998b35f1bae7bb2c"
+    },
+    {
+      "file": "torah/48_Shoftim.md",
+      "source_sha256": "5316e4d4ec8c8909d56da9c495ee98a41ce2fba59ac278c14e5aaae700f47e43",
+      "published_sha256": "d2ee121a81c5760c7ed1a18d419497cea39bf9906407294680c51a3dfeb4d97d",
+      "archived_revision": 1,
+      "archived_wiki_sha": "309af44da5b1d062"
+    },
+    {
+      "file": "torah/49_Ki_Teitzei.md",
+      "source_sha256": "4c15b6a64cd783b2d900c55c966cedc26595b6cd3794970cef89efa9cdc78559",
+      "published_sha256": "9091b6e2eb6d260be6ca9fa71c98c05ad7f69a094bdf798d177bfa3a6be254ef",
+      "archived_revision": 1,
+      "archived_wiki_sha": "e7e24d65b9b83cac"
+    },
+    {
+      "file": "torah/50_Ki_Tavo.md",
+      "source_sha256": "8289a942570ecba4b206691f2cbb6886d74d6f87b24a1220024227dab9444a7a",
+      "published_sha256": "182632f9e30015a66676392963e6cf627186dff54e94d65032f28cc30ae3c9ac",
+      "archived_revision": 1,
+      "archived_wiki_sha": "8f7ce816e1c46b47"
+    },
+    {
+      "file": "torah/51_Nitzavim.md",
+      "source_sha256": "7c216a952ffd7b5257a462e55ee3e391d2f59d2b40b1a4e350e23368efc1117b",
+      "published_sha256": "531b22226a7edf1c3dcab0296c4791b2b667b83bef102516e0281e4b0670302b",
+      "archived_revision": 1,
+      "archived_wiki_sha": "788844d315b895b8"
+    },
+    {
+      "file": "torah/52_Vayeilech.md",
+      "source_sha256": "3a154dc55bdf4104a30c12e9095fa1840aa622f6346fd720fed1a7dd0fa9663b",
+      "published_sha256": "372986c4eb0e62498f690189f0c2ed9028adedfee6d1bf3957f71e7f9984c2f2",
+      "archived_revision": 1,
+      "archived_wiki_sha": "483d16ac4cbf7a4f"
+    },
+    {
+      "file": "torah/53_Ha_Azinu.md",
+      "source_sha256": "4e8c81c04a955a36859934f0887484e9e82eccc771079de4d2c73bbeecfb970b",
+      "published_sha256": "ae0973f6e307af80b6f66589a63b6509b48cd7ced3c65a5d23c9496778c8dd8b",
+      "archived_revision": 1,
+      "archived_wiki_sha": "bfad46f999b4a6d1"
+    },
+    {
+      "file": "torah/54_V_Zot_HaBerachah.md",
+      "source_sha256": "3da42d3c4d6821b8a0d7166d82412fb7c2348bbdd9f4f9393a482a708101817f",
+      "published_sha256": "7dda6ef1ad20c85998a27c141b334846f8b648c857805d8b56cd172d0dd96af6",
+      "archived_revision": 1,
+      "archived_wiki_sha": "105233678aee0f8e"
+    },
+    {
+      "file": "nach/55_Yehoshua_Crossing.md",
+      "source_sha256": "15d00f4cb91807eba8dce7e5c3253064dc086fea485c099c0161b5e7ecb6419b",
+      "published_sha256": "6ca344230dc949f0c879f3b404d31ca1863a45069530a6fb2c0db73864fae3b9",
+      "archived_revision": 1,
+      "archived_wiki_sha": "93c7d3a324ad6b7f"
+    },
+    {
+      "file": "nach/56_Yehoshua_Allotment.md",
+      "source_sha256": "941ba232d056992c4338f2e2b329f2bf85f9e9f326cd889901290c5b2cfd27c8",
+      "published_sha256": "6a8dc89384fc37f9f1ff314543db6eaa51d9138e6bd2d564ea49edc6c4da29b8",
+      "archived_revision": 1,
+      "archived_wiki_sha": "d505eb55112e9e56"
+    },
+    {
+      "file": "nach/57_Shoftim_Deborah_Gideon.md",
+      "source_sha256": "1236bcd3b27694e80c214122cc275bcdab6d785ec7cfd16f6c01819d69126153",
+      "published_sha256": "29ac8deb03632c1e8be77cda50453240f9ea58ac47b7184f1f7ccecd053b79bb",
+      "archived_revision": 1,
+      "archived_wiki_sha": "19840adfef05e214"
+    },
+    {
+      "file": "nach/58_Shoftim_Samson_Anarchy.md",
+      "source_sha256": "43d933e9fda489e7994f151b11e4a8ff310a2d84909481f896cb80b5ebb5d680",
+      "published_sha256": "7c456fd8a8693d586ace5e58210daecfe9768d55497bf462db16828df5af709d",
+      "archived_revision": 1,
+      "archived_wiki_sha": "a77d580f468f5755"
+    },
+    {
+      "file": "nach/59_Shmuel_A_Demand_For_King.md",
+      "source_sha256": "c1b271aa187f9d49f16dfef4e72474e2002534eb583539c96d31357e9966d9e1",
+      "published_sha256": "3ccd9c3a616459d478b53fe7273ee83e7ba45309f1b4556b7b0aeeedd2bf2d1e",
+      "archived_revision": 1,
+      "archived_wiki_sha": "fb939e1d5e6b6225"
+    },
+    {
+      "file": "nach/60_Shmuel_A_David_Fugitive.md",
+      "source_sha256": "2801914e31ee87fc640f9fdd7cc0a0459a5e71afda5ea4e69be7a3b8032a07a9",
+      "published_sha256": "0bc4c167e6c53c5754acfda56784e57ec0a3f152f174da123263b70d723cf387",
+      "archived_revision": 1,
+      "archived_wiki_sha": "29085915a7be6e71"
+    },
+    {
+      "file": "nach/61_Shmuel_B_Throne_Bathsheba.md",
+      "source_sha256": "421be5f0f4362dc56327294c8c25bfed6ab869beab08bf5923e69fdc64f71464",
+      "published_sha256": "95f20458adc4abd9fb7aac08b3a9a1739218e082527afb5b31e2e8253e6dc757",
+      "archived_revision": 1,
+      "archived_wiki_sha": "d89ef138f1c81763"
+    },
+    {
+      "file": "nach/62_Shmuel_B_Absalom_Census.md",
+      "source_sha256": "7faa26aaf5b56442cb86053aefa1573fc86a8c138de280ade86ee72c5a870f46",
+      "published_sha256": "9392bdd1ab95633fecd6f9f61628574208faa0af683e7cecf9ca9dd03b9f896c",
+      "archived_revision": 1,
+      "archived_wiki_sha": "029233f83eac03f5"
+    },
+    {
+      "file": "nach/63_Melachim_A_Solomon_Schism.md",
+      "source_sha256": "317bc7913aa9b771f854e36909bc221c8bd941d44d4a46a9f85f01ae7c9ca8f6",
+      "published_sha256": "d966952825577333bfe96f2060b59af13bb2ea0e32c4a07e624cac45141a546a",
+      "archived_revision": 1,
+      "archived_wiki_sha": "5a706f2180681d29"
+    },
+    {
+      "file": "nach/64_Melachim_A_Elijah_Carmel.md",
+      "source_sha256": "038fb7e4d7d08cd1ab0f8ae9e3cd76338d07661069393ec628bec65f5e93fe4f",
+      "published_sha256": "df404d010a0b03ef6171a99e9064c2bd9eb770aa62d1b60d88f8a6acbe90f878",
+      "archived_revision": 1,
+      "archived_wiki_sha": "0aaf07dc3b836fa9"
+    },
+    {
+      "file": "nach/65_Melachim_B_Elisha_Coups.md",
+      "source_sha256": "cfa5392579847e3d49fa713d040090ea963f586ada7992e2a822a8509ca8baef",
+      "published_sha256": "d3071c81fbaadf37d4906d8affb3b92ec290624c9801f94650b42dc0c038e11c",
+      "archived_revision": 1,
+      "archived_wiki_sha": "df392206469fdae0"
+    },
+    {
+      "file": "nach/66_Melachim_B_Fall_Exile.md",
+      "source_sha256": "c6403da809bc551533922aef73fe1856878ed827b68b09d5038a19a4725a61c1",
+      "published_sha256": "c7cfe766722e65e304ea2ca7d548e8cc2433d2f59a3a847b9fb7a3e745955c71",
+      "archived_revision": 1,
+      "archived_wiki_sha": "08fe559a400bcc1a"
+    },
+    {
+      "file": "nach/67_Yeshayahu_Throne_Assyria.md",
+      "source_sha256": "92e8933d68d705214379d003efdc8cd724a7ef00c656976522cd06c64ca0340b",
+      "published_sha256": "2cf5e9c04c3f6b3387ce66937b429ce13ff443bdb07bfd0d1459a141fe59d935",
+      "archived_revision": 1,
+      "archived_wiki_sha": "55d7b001bbb1d15f"
+    },
+    {
+      "file": "nach/68_Yeshayahu_Siege_Hezekiah.md",
+      "source_sha256": "bf3a281e29c2f837c91ce7cf1a12552f95d5093e8020c6312faf80e21f7bd6b2",
+      "published_sha256": "0686c06e968151f6893b0ce5436a3fad90c5e6e70d3c871c831405b089cf9fd7",
+      "archived_revision": 1,
+      "archived_wiki_sha": "08e19d827d06a2f3"
+    },
+    {
+      "file": "nach/69_Yeshayahu_Exile_Return.md",
+      "source_sha256": "7b7b70ea2cb4a0a6f4792a10ba4d217fa98eb8c74bebe8feecad346d105d1fda",
+      "published_sha256": "58a9c130360f74bdf40978d702130264b7a00039c277486f24b2c5bb4efa45e6",
+      "archived_revision": 1,
+      "archived_wiki_sha": "39fd9a99173ed827"
+    },
+    {
+      "file": "nach/70_Yirmiyahu_Temple_Lie.md",
+      "source_sha256": "1c5178f2c55a95c533272ca306d56d11758cb319f62940e6ead376026766d4ff",
+      "published_sha256": "3fa8feb62ce8f87fd2296cc8c6365b143b41272cefc7c94b304ef46310e3fffe",
+      "archived_revision": 1,
+      "archived_wiki_sha": "ee82c65c118f9684"
+    },
+    {
+      "file": "nach/71_Yirmiyahu_False_Prophets_Scroll.md",
+      "source_sha256": "d5a6c1991089307194464e33859eab6ac443bb18a58ba1d1c0b3d2054e01c686",
+      "published_sha256": "67deb576474609af87203f59150d5f8ea4beb292450fb98d1e35aa4be9af2539",
+      "archived_revision": 1,
+      "archived_wiki_sha": "44a9fd2f0869140d"
+    },
+    {
+      "file": "nach/72_Yirmiyahu_Cistern_Fall.md",
+      "source_sha256": "83e5aa49393d1c5a13bc19f0ae7d513dce1f49919401987cd6691d7f39ae55ca",
+      "published_sha256": "b3ab877daf32ec214f60bac4c044b5d6b70603dc6f69e447411994b34734009c",
+      "archived_revision": 1,
+      "archived_wiki_sha": "96deca609667dadd"
+    },
+    {
+      "file": "nach/73_Yechezkel_Merkavah_Departure.md",
+      "source_sha256": "abb3a0e53e77f3623267e2536c51edee41e72b8809871ba88d81568e40695743",
+      "published_sha256": "dae07d758075d202ad2f620b7c2244a648aa896acc817f240764cd9259032a2e",
+      "archived_revision": 1,
+      "archived_wiki_sha": "9d5ccd391f1418a9"
+    },
+    {
+      "file": "nach/74_Yechezkel_Watchman_Dry_Bones.md",
+      "source_sha256": "8257020146efcd32b37a641909bfdd9182e57f157756caafb07f16972b0e0adf",
+      "published_sha256": "53de3bf7ef17772cd14f2f30e4d43e9678561724f6527662a4f169f4188939ea",
+      "archived_revision": 1,
+      "archived_wiki_sha": "cf7a193500e76a3e"
+    },
+    {
+      "file": "nach/75_Yechezkel_Gog_Blueprint.md",
+      "source_sha256": "21901b8f6202971de3f4bef46fc088cc08a2fead7805fdcb5b48e0c42990aff4",
+      "published_sha256": "682cc843edf4ad91e31053dc054a22c1977e8192dcf3873fed6a575cde1f6b14",
+      "archived_revision": 1,
+      "archived_wiki_sha": "126a1530ff7ec626"
+    },
+    {
+      "file": "nach/76_Trei_Asar_Hosea_Joel_Amos.md",
+      "source_sha256": "6fcd90b38973762a4e09fb2ace57c52041805c8ec77a591e51f15e4e789ed8a2",
+      "published_sha256": "01e116843a096ee735fecdd67a50ff9a74b7b864dc5a68fd1d48de483f1185c4",
+      "archived_revision": 1,
+      "archived_wiki_sha": "a0152eff53ce46a8"
+    },
+    {
+      "file": "nach/77_Trei_Asar_Obadiah_Jonah_Micah_Nahum.md",
+      "source_sha256": "76c9c6637b1d7d9478ed063cefbb4e8bd0f8bf8abf4d701b6a33e07cc700bb42",
+      "published_sha256": "dbae1e82fa6524b1da5e27c0f66af4e1460650ecf103574b39173a963fb73cb4",
+      "archived_revision": 1,
+      "archived_wiki_sha": "1a1748f2eae1364f"
+    },
+    {
+      "file": "nach/78_Trei_Asar_Habakkuk_To_Malachi.md",
+      "source_sha256": "0db45ce2df13d1f450237f7c0c85c584a116240309398dad7bf23b4b18bec612",
+      "published_sha256": "b5b6eb746bcefbc3a110fa47029d06013a1b07cabec4733b7d46375360798e1e",
+      "archived_revision": 1,
+      "archived_wiki_sha": "756ad86320b99938"
+    },
+    {
+      "file": "nach/79_Tehillim_Books_1_2.md",
+      "source_sha256": "c2b5ec4c73b58480bf87cf87ba127d26c5adf570a02353f3a2330d4226ea65ad",
+      "published_sha256": "2a9e68a2dca7ee75ccaf3ba333e3c79edb610f9b5ae53dc82b85f4b014cd4204",
+      "archived_revision": 1,
+      "archived_wiki_sha": "a95d53e720fbd787"
+    },
+    {
+      "file": "nach/80_Tehillim_Books_3_4.md",
+      "source_sha256": "c7e987744f6904a51b9bcb5ac6da6fa70cd6adb844c79dac38a0150af0e1fdfd",
+      "published_sha256": "91bc2947e6c09fa2e4cb126e0b09e909407bbe094454d24576baacd905d58f95",
+      "archived_revision": 1,
+      "archived_wiki_sha": "02b88e069750061b"
+    },
+    {
+      "file": "nach/81_Tehillim_Book_5.md",
+      "source_sha256": "01477c688cf19123e8932557445112d711f644f00b0f840fcf9edae7ee55b1f5",
+      "published_sha256": "efb90dbb0656beaddc54fb8283d55bafb045c96d3cc19c71f62d02f35358f7f1",
+      "archived_revision": 1,
+      "archived_wiki_sha": "917aff1faf90b3c9"
+    },
+    {
+      "file": "nach/82_Mishlei_Wisdom_Heuristics.md",
+      "source_sha256": "b1c561af03e9a39bb504d9fdd125b5c0a9a6f163bb3c61c455150fb57fa92dde",
+      "published_sha256": "78df6fef7b4ff50bcdf594d3a4160ed4aefa57346cdfcf54b0a0202a25e456fd",
+      "archived_revision": 1,
+      "archived_wiki_sha": "b0bbd52537c0b33e"
+    },
+    {
+      "file": "nach/83_Mishlei_Calibration_Agur.md",
+      "source_sha256": "3e91cfc0ca0b7dde1e080e533d6df0aca15ab6a81276cdbb144526a665504d11",
+      "published_sha256": "4724091955eacf466a52dae69ac4aa3cd313dd7d31849c8a1cee6277ea39aa44",
+      "archived_revision": 1,
+      "archived_wiki_sha": "0aeaec0a82f5def0"
+    },
+    {
+      "file": "nach/84_Iyov_Benchmark_Bet_Friends.md",
+      "source_sha256": "e463218b40a2753904cd7d45a5e1bb3cb24112ea1e17746d8a617be3ac093377",
+      "published_sha256": "c2dff887036706be70546303b3c38833be1c8efe2f8ff29ba99aa3125c6f947f",
+      "archived_revision": 1,
+      "archived_wiki_sha": "c24627f2b575da1f"
+    },
+    {
+      "file": "nach/85_Iyov_Whirlwind_Rebuke.md",
+      "source_sha256": "5936ed1f2ac943e736175b56382572abade38d7030b2c9653e458deedf65b5a2",
+      "published_sha256": "bcdc5806bc21b4e1dc9532822474b0e68031afd5901ca5ce02d1533a2204ac34",
+      "archived_revision": 1,
+      "archived_wiki_sha": "2c8e67d156ef9634"
+    },
+    {
+      "file": "nach/86_Shir_HaShirim.md",
+      "source_sha256": "b6faa587cccc0d9a7749a3e78bcbff89041443500cb68ef618b3e24e81caafc6",
+      "published_sha256": "f6a426069edecd3f5f84eaa7e34569479b7ad2b39ece945170fa1956a7199fe6",
+      "archived_revision": 1,
+      "archived_wiki_sha": "47cd127129780361"
+    },
+    {
+      "file": "nach/87_Rut.md",
+      "source_sha256": "ec319a5b903e77c2974e5702e423ba6b1d5f74f11bdbd356194a035ad9c2f2a6",
+      "published_sha256": "f90ebcfbcf54bfb00616dc4cef79aeedeadb9099502e4933d12bfecc54365663",
+      "archived_revision": 1,
+      "archived_wiki_sha": "b482f05c8b415785"
+    },
+    {
+      "file": "nach/88_Eichah.md",
+      "source_sha256": "8a9d29c731f434669e29eeff256f7f49ad1e6d3462401cbe778ce66bfb885b2e",
+      "published_sha256": "14331613001a459a7c9b276438b01dc1522b2cc96322be7627c6f32bf5e268fc",
+      "archived_revision": 1,
+      "archived_wiki_sha": "643dc41762892a36"
+    },
+    {
+      "file": "nach/89_Kohelet.md",
+      "source_sha256": "af8b9647ffad201936e9fe9a6940bdd9baee457203d287b2a8f42cb170e86ae7",
+      "published_sha256": "a11d5b7da6355b4152ae04cddf3753007361e40a0b9420d935c4e5558bb7376c",
+      "archived_revision": 1,
+      "archived_wiki_sha": "9f5314ac3dc3ef5c"
+    },
+    {
+      "file": "nach/90_Ester.md",
+      "source_sha256": "01a2bfa3dfcd37e433ade47221aeaaba36db22791c3100148c80b9df58a7b2cf",
+      "published_sha256": "dd573cb1d84a88326150222709c062569e3d9a2bd4ddd90e60425992c2a240b7",
+      "archived_revision": 1,
+      "archived_wiki_sha": "a366aa4ba6ca65e9"
+    },
+    {
+      "file": "nach/91_Daniel.md",
+      "source_sha256": "500d7792125ec18c86247abcb53cc58324d3341eaf8f5b5fa5773a5381cbbb8a",
+      "published_sha256": "0893c6e063a965f15369c8510770b33b5f578dc1a39cc34fbfbc52d722526f02",
+      "archived_revision": 1,
+      "archived_wiki_sha": "b56de4d38c9b8845"
+    },
+    {
+      "file": "nach/92_Ezra_Nechemyah.md",
+      "source_sha256": "9bf9fe10765b1fcb15a21ecd0f09e1f64285e89977246b32544e53ebda8b8022",
+      "published_sha256": "b89ff08fea4463b3cd66b70f808be7bb07f192a785b8aeddf5064e5ba09153c3",
+      "archived_revision": 1,
+      "archived_wiki_sha": "185c11bf2c0561b7"
+    },
+    {
+      "file": "nach/93_Divrei_HaYamim_A.md",
+      "source_sha256": "c180bcd9502cc2bb61e93d9ec6e1827df1575d7159c6175a0d48bdf23dca2cc5",
+      "published_sha256": "bbbecb449e612afa1810f650d7d4d1614fdfb347c90fff9da29533e23fc3597b",
+      "archived_revision": 1,
+      "archived_wiki_sha": "d896f5ec10eff310"
+    },
+    {
+      "file": "nach/94_Divrei_HaYamim_B.md",
+      "source_sha256": "54796250935e96716043bcae7947c10e921b7cb01104967b37e64e70c7a3f3f9",
+      "published_sha256": "516060aac50ca1e9af2a10661914408d900fdf91d58083411d2dd8a7fa144264",
+      "archived_revision": 1,
+      "archived_wiki_sha": "cce12da36b366f72"
+    },
+    {
+      "file": "talmud/01_Bereshit.md",
+      "source_sha256": "1e0238131a36a2b3198c8a61a5f1b2da17edc23f22f2cd9c6e0f000c4f2a8a72",
+      "published_sha256": "c27de3503756020752a554ea0df56d284ff7be0401b4488dcc65f9bd9b468da1",
+      "archived_revision": 5,
+      "archived_wiki_sha": "91f085eff935132b"
+    },
+    {
+      "file": "talmud/02_Noach.md",
+      "source_sha256": "8edd4bc456accecf3d4b8d63f5faba12c8971d732b6f7cb2832fb531dfed8c6a",
+      "published_sha256": "4f6d6568d6c745774b607b113d16dc9ab2c38b5c7e46467543c22ee8bb3d9840",
+      "archived_revision": 3,
+      "archived_wiki_sha": "346fe6c562d3b02e"
+    },
+    {
+      "file": "talmud/03_Lech_Lecha.md",
+      "source_sha256": "5c6acb8aa7e6e5384a8f26e816b03a6f824cbb60d6c3b228348199232fb42ebd",
+      "published_sha256": "2cc02013b03f6e1e8cd1141bc24b8246d5b9df9a7822e86a1259d7592de472bb",
+      "archived_revision": 3,
+      "archived_wiki_sha": "39d91dc7351f688a"
+    },
+    {
+      "file": "talmud/04_Vayera.md",
+      "source_sha256": "49c5320d2337fd6c103e3671e205c0f1b5a79f1cb3b010395eb5b3f9617c9e41",
+      "published_sha256": "b83cb06e2204d1f3a3b2053278023eafa88d6b9619451c1771675c1534b78abb",
+      "archived_revision": 3,
+      "archived_wiki_sha": "354c8c10ffd77e1c"
+    },
+    {
+      "file": "talmud/05_Chayei_Sara.md",
+      "source_sha256": "8d00a5feb3f92b9d2264f0717b0a8099030823c30c38d74b338c881ab752e3d4",
+      "published_sha256": "f087c877c95bb7554da932749946973b3d055a2a0d624c09ceb75a3276a5b2af",
+      "archived_revision": 3,
+      "archived_wiki_sha": "ec6af5647e6501ec"
+    },
+    {
+      "file": "talmud/06_Toldot.md",
+      "source_sha256": "7d7cd9480d0f301ddca741e774a1d6eb8266f85a606b546fcbf83805a6d7ef7b",
+      "published_sha256": "77859c0fa200e19debcca0fbee0aa37774875aafd6d1695862a8b425ff0574ab",
+      "archived_revision": 3,
+      "archived_wiki_sha": "0c37b415083b8fb5"
+    },
+    {
+      "file": "talmud/07_Vayetzei.md",
+      "source_sha256": "48aa8622e6506c330e0da46bac8813ea26297179f7d200ef908d9c240938b3a7",
+      "published_sha256": "c42d19e9d67881430950f2d346a6893addb96c800db9a5c0b831e9e4645ee13b",
+      "archived_revision": 3,
+      "archived_wiki_sha": "2316781de8ae312b"
+    },
+    {
+      "file": "talmud/08_Vayishlach.md",
+      "source_sha256": "eba447aefd36a0da2e6355e3f1912b597e11879d3a367f634630462d025edb30",
+      "published_sha256": "26923d7852eeb24497588f786d83a4a7dc07b1aed5e7bddf16b3beba453d4501",
+      "archived_revision": 3,
+      "archived_wiki_sha": "e83502274ea3caa5"
+    },
+    {
+      "file": "talmud/09_Vayeshev.md",
+      "source_sha256": "c89eebd57e551916095e8dd3b530d436a042583b99d8836093bcd2e60c4668f0",
+      "published_sha256": "e1969b8dcf8907d716c8b73847e6974db036c4c4a430c4914a0243bea1f49684",
+      "archived_revision": 3,
+      "archived_wiki_sha": "e6ac229c29a4def7"
+    },
+    {
+      "file": "talmud/10_Miketz.md",
+      "source_sha256": "4f2070d8ca2ff5192d725437acdd3c8201b81317fd49563c676bfab1ca85e4b0",
+      "published_sha256": "3720fda8ca0a65b3736c7b0ba1b0d5207e0e669638766e2c424d9fce880f74cc",
+      "archived_revision": 3,
+      "archived_wiki_sha": "dfb4572bb18e5385"
+    },
+    {
+      "file": "talmud/11_Vayigash.md",
+      "source_sha256": "2164badca4025665dc21b3ec2960244401805636273387ee6cd2d770af824b59",
+      "published_sha256": "3471e9a9232ae9395f53a053219ded3359b7f64c9bc9f590c239090580224022",
+      "archived_revision": 3,
+      "archived_wiki_sha": "e55a04ea4db44c7f"
+    },
+    {
+      "file": "talmud/12_Vayechi.md",
+      "source_sha256": "011174f4762c42f01f2bf1d41bfc39fe1451ea8a03f019ec5c6fdfda5f376c2e",
+      "published_sha256": "e85d8f5df57ffc8ec3f9fd6e20c82e3c19a027613aea223c0992ebd515b1771a",
+      "archived_revision": 3,
+      "archived_wiki_sha": "5cf6c626bbc9745a"
+    },
+    {
+      "file": "talmud/13_Shemot.md",
+      "source_sha256": "a5b3879b58fac5bf355c2abe159526c15d7175ec9d8ae62f409acb8c60df889c",
+      "published_sha256": "f6afe98eea027ed6ba54ab826dde2f8a6fe303c2f7c80715a46b0dc1f03a6987",
+      "archived_revision": 3,
+      "archived_wiki_sha": "9f9aa9f6253d1844"
+    },
+    {
+      "file": "talmud/14_Vaera.md",
+      "source_sha256": "f0a6a0bc853a7ed146aab26c2b1f398ec3466493d4de2129d092a2ff3a3d65e3",
+      "published_sha256": "a22da049cff4d7c6a45c64c3bf096194bd99b7d9fc2c4d185a2c307acdcf8543",
+      "archived_revision": 3,
+      "archived_wiki_sha": "1e70491aa8222eb7"
+    },
+    {
+      "file": "talmud/15_Bo.md",
+      "source_sha256": "f980b0ce5a2cd88f34e629ec493316f5b3e4e6f0d794ab945d8dd5665d77f831",
+      "published_sha256": "07fce665b594cb3f8902a44cfc48b678551ef786aa133f1a9a9bfc26555eccdd",
+      "archived_revision": 3,
+      "archived_wiki_sha": "b8351b0a3b407c00"
+    },
+    {
+      "file": "talmud/16_Beshalach.md",
+      "source_sha256": "53497c254028fb448ab9c6eda472dc45c595f5557107d50746c22092a207e4f4",
+      "published_sha256": "ccb25348c3c0cca23a1bdc4e76a32d06033752bb7e8a9a048c4551b796e8c93f",
+      "archived_revision": 3,
+      "archived_wiki_sha": "d56cb8c4783a3771"
+    },
+    {
+      "file": "talmud/17_Yitro.md",
+      "source_sha256": "ef956d28fbc4eaf2d52e8420b69c4d65d95fc5f8b2a467f08c8c26341ee9d3d9",
+      "published_sha256": "920c81ef2074818a78af8088ec8d2940e0db862e62401219be4fbad94ad735f9",
+      "archived_revision": 3,
+      "archived_wiki_sha": "27fb163dc0fa54b0"
+    },
+    {
+      "file": "talmud/18_Mishpatim.md",
+      "source_sha256": "3e1dfa0605324e8434b9cad562523534377c9e19c0d2ec8a470fb4ac5147e5ff",
+      "published_sha256": "010c93f6fd31b912692f6de4a6c5b6311c0c84b9f14961de78d6ccf132418a7c",
+      "archived_revision": 3,
+      "archived_wiki_sha": "3bb0f3998d11d11a"
+    },
+    {
+      "file": "talmud/19_Terumah.md",
+      "source_sha256": "150fe6bee95ebdfcabede080d88aaef7802d5cca20335cf6d1d91b6c9706d1ed",
+      "published_sha256": "deb2e939e19fb688c177260796562fad4fa456a8bafd02160d3b70a99f8eb4ef",
+      "archived_revision": 3,
+      "archived_wiki_sha": "89482e32ce7feb69"
+    },
+    {
+      "file": "talmud/20_Tetzaveh.md",
+      "source_sha256": "f90b0af4b0e42049e3a0ef306b4658607bed3b901ebbb154ba0cba2a4690ca6a",
+      "published_sha256": "b894318b116488cb26349165903b1ef24ec5c34a15ce53549202d619d4b2d7ec",
+      "archived_revision": 3,
+      "archived_wiki_sha": "225f6799a8ca4575"
+    },
+    {
+      "file": "talmud/21_Ki_Tisa.md",
+      "source_sha256": "43c0ce990af1b9c4f541401abd9f3ccc63185a844f3d9fa9c911ebf4752d2a2b",
+      "published_sha256": "db3e1f5cf6a4c0056095bfe7138e08cd0cd11348cd8ed1bf9cb847cb8c414082",
+      "archived_revision": 3,
+      "archived_wiki_sha": "b6cb32acfaa889b4"
+    },
+    {
+      "file": "talmud/22_Vayakhel.md",
+      "source_sha256": "866b8a24a1d884df2a4b714ccafc4883b247fa3463996e28fc92bc945a22cab7",
+      "published_sha256": "c3504543dfe11ec8f73c7590cbe6aab14decde3dff61b592c2fb0f88c5944cd4",
+      "archived_revision": 3,
+      "archived_wiki_sha": "aa86a09d88f2cc00"
+    },
+    {
+      "file": "talmud/23_Pekudei.md",
+      "source_sha256": "2eb469f258e195476f749b122a31d2029d316ac1123b9606e30f2e05ffd5cfc0",
+      "published_sha256": "f3fea96bf7e9e80158e438549f8ea2b9b0b8fc6bf54f93de848c5547329c80c5",
+      "archived_revision": 3,
+      "archived_wiki_sha": "aff16af36d8fd41c"
+    },
+    {
+      "file": "talmud/24_Vayikra.md",
+      "source_sha256": "e75583d8a1bf3d4e04fb6f64653670b14e5583c8657cad52aad44a1f5787fe9e",
+      "published_sha256": "a2807e8e4cf32646b212c92778dc9d9f96df3946d5d17978152b4b8b1b2b7149",
+      "archived_revision": 3,
+      "archived_wiki_sha": "61402802b2636914"
+    },
+    {
+      "file": "talmud/25_Tzav.md",
+      "source_sha256": "2fe644220573329462f3726790c8be36bc18706511c9a39a537cb40605a3ff30",
+      "published_sha256": "2adad63dbba1828284f803c80cf5368893b06196bd4bea72880398daa2c97609",
+      "archived_revision": 3,
+      "archived_wiki_sha": "a4e75b3233a77183"
+    },
+    {
+      "file": "talmud/26_Shmini.md",
+      "source_sha256": "f6e632ef0d86873cca94ffe8dbe3522af32d6f847d2caa5d5bb29a115c6ed106",
+      "published_sha256": "a17c1af148ae31dbe2fb3b5cf32ce6b0603d77292d29ec4080af6788eb3c2780",
+      "archived_revision": 3,
+      "archived_wiki_sha": "5c10cd2f44e2e119"
+    },
+    {
+      "file": "talmud/27_Tazria.md",
+      "source_sha256": "b9be69f8e5da74d86fb9cbdc7474919e91b4727773ed45a9a955ab6163f5a71a",
+      "published_sha256": "20ab60bd83869c5dff3366bd58eed64ec81972dc9ee9405eccd9f1f8cf33b705",
+      "archived_revision": 3,
+      "archived_wiki_sha": "72857b889529da9b"
+    },
+    {
+      "file": "talmud/28_Metzora.md",
+      "source_sha256": "211205e6f2ed46b6c0961455f2d5e7e58e4e606d85ff420000baae8a5b49beac",
+      "published_sha256": "da126e389726ec60ab784bbe4583c642f477bea11ab77973578614fae0628faf",
+      "archived_revision": 3,
+      "archived_wiki_sha": "a846339e2011653b"
+    },
+    {
+      "file": "talmud/29_Achrei_Mot.md",
+      "source_sha256": "47b2e6c83a394c48baef87f229622a41ac68131f13b03fd23739f1046dd4723d",
+      "published_sha256": "3828b9cac7e1943318ba577a480421e40f3bbc8e9e3253903b22ea4164a875b5",
+      "archived_revision": 3,
+      "archived_wiki_sha": "7abf27fb360db29b"
+    },
+    {
+      "file": "talmud/30_Kedoshim.md",
+      "source_sha256": "b77c8f8eae74de91528f003012750d69d79ef6f2fb9c53f48a994f3bc5fec453",
+      "published_sha256": "9271300133d8d0701fb51ca1eea9a60955d0577be4adf2673e1d7c54fddc10ab",
+      "archived_revision": 3,
+      "archived_wiki_sha": "8bf68828c01513a4"
+    },
+    {
+      "file": "talmud/31_Emor.md",
+      "source_sha256": "ae5275570cf632830e3fcba1d1a46fdf7fc1814cbec4d2965719b8edcb2c5b05",
+      "published_sha256": "0556009715b0f42fe2e893c12813c29b99c12779c1f2aa3f5c7f353869556fdd",
+      "archived_revision": 3,
+      "archived_wiki_sha": "d5b1308eb75e1448"
+    },
+    {
+      "file": "talmud/32_Behar.md",
+      "source_sha256": "207ad2247ab1cb47041272c2d340e3dd4945cf97fb2f3581bf9f7ffbb8ed0320",
+      "published_sha256": "4865ae60cefee6cc2a599d5b1173f099c24427c6aec187554ba36d8935e5bd24",
+      "archived_revision": 3,
+      "archived_wiki_sha": "483911dc323ee920"
+    },
+    {
+      "file": "talmud/33_Bechukotai.md",
+      "source_sha256": "4f12abc2ce391da8d3a5790126bc88f3c8793a51af57725742f6f5c37096a937",
+      "published_sha256": "52f98ec06ca1abd1f16714295454cda66466401d88c0625171a280f55cbc3d9e",
+      "archived_revision": 3,
+      "archived_wiki_sha": "97613cebc4205410"
+    },
+    {
+      "file": "talmud/34_Bamidbar.md",
+      "source_sha256": "269f6b7f9d144b2f7276c70d36dda85c370111e6410fa5f4ef927f9059d099f7",
+      "published_sha256": "6e10571fb3829110ab22e8e3d88f6dd218109daa40775e886316ff3f3926764d",
+      "archived_revision": 3,
+      "archived_wiki_sha": "5010e97c3d9e0881"
+    },
+    {
+      "file": "talmud/35_Nasso.md",
+      "source_sha256": "43b6a4044f5a0c3fe9d4a612cbfd570d3af953833c20552811a4195317c96bfb",
+      "published_sha256": "f4a910dab78a3a5331dd7bc9c4e8ed8838cf37f554d8a6185930533f1885c3bc",
+      "archived_revision": 3,
+      "archived_wiki_sha": "9ea0cbb3d79dde3c"
+    },
+    {
+      "file": "talmud/36_Beha_alotcha.md",
+      "source_sha256": "13601443c69365a308953a232085878215634ebc646370633e7ea2d4732900bf",
+      "published_sha256": "a248adb0a72681d696195fc5e2742097affa83f728befd88ba6b0d327b8c30c0",
+      "archived_revision": 3,
+      "archived_wiki_sha": "5f8599b42d1dc6e9"
+    },
+    {
+      "file": "talmud/37_Sh_lach.md",
+      "source_sha256": "2beed3df5942fa75f384d78e7985911dcb0aac331c7d1fe7142524ab09b0a42e",
+      "published_sha256": "2758b459cb3a8e2cfa4ced87cf558e2f2082669c42b7797fba646b34c78ed85b",
+      "archived_revision": 3,
+      "archived_wiki_sha": "3eadaaf011aa2d17"
+    },
+    {
+      "file": "talmud/38_Korach.md",
+      "source_sha256": "88e20fcb03349858db2af07c41aef04da355bd823904065f3597db64a7d743eb",
+      "published_sha256": "bfbe6e7408ccec96d020bb273c08c03dbc5b44bc96182df60b6f2565cb767088",
+      "archived_revision": 3,
+      "archived_wiki_sha": "cd761a10602131b0"
+    },
+    {
+      "file": "talmud/39_Chukat.md",
+      "source_sha256": "7f1db816ae7684a1049cbdeeeecfdcc15d3aff568493f62747f5aab37b7dc2b5",
+      "published_sha256": "e3afb13b5d491e2df96200f7a3f457cb43130a1b0075fa0c61017ff4514b7453",
+      "archived_revision": 3,
+      "archived_wiki_sha": "2752fbd88fc1d792"
+    },
+    {
+      "file": "talmud/40_Balak.md",
+      "source_sha256": "6d3afa5dc7c1519489f41867fdf35c7a6276bbb63df35865dc0dd084889ebdac",
+      "published_sha256": "f48c4e0add78fa882ff027a011fb7289a3221130e772d54fbc9d118a2bec58aa",
+      "archived_revision": 3,
+      "archived_wiki_sha": "3df75d7abfd973c3"
+    },
+    {
+      "file": "talmud/41_Pinchas.md",
+      "source_sha256": "618bb8e6826b558b98d868956f419eff5f14a250be69561c565e4ccd8f73334d",
+      "published_sha256": "4b2a84a8b4a9c48e7496e6cf5740b6aa12f75c6c1f74455582411d82a61ebdd4",
+      "archived_revision": 3,
+      "archived_wiki_sha": "829041116ab2eb9a"
+    },
+    {
+      "file": "talmud/42_Matot.md",
+      "source_sha256": "8cc64cfb8a37d557ff3eae2f4fde7933f668ed80685f52edf8f8ed37f56c9f21",
+      "published_sha256": "f35a6b6f3173aaa5451570fd1040c920026d9957371d67202658133c1ae02316",
+      "archived_revision": 3,
+      "archived_wiki_sha": "55a00bed3db0d3d3"
+    },
+    {
+      "file": "talmud/43_Masei.md",
+      "source_sha256": "b1b7e009d65cdd1aaad7d5e1e3c9a5d9fee4f7c92e5966609dc38c47b08dc901",
+      "published_sha256": "1387a37400d851b43d0479692d43619f758f893ffef70de83abb862a530d6383",
+      "archived_revision": 3,
+      "archived_wiki_sha": "4db6fe1129c87636"
+    },
+    {
+      "file": "talmud/44_Devarim.md",
+      "source_sha256": "3983e0facb4ae44ae51a07974b15d3976ff2a14e89a0f49620299ea0aeeb4073",
+      "published_sha256": "f32f521f2468242e68f734cd811ee6ee4e1168256852ac8fe3c8d91443a6a442",
+      "archived_revision": 3,
+      "archived_wiki_sha": "6af87b3e968dcfe9"
+    },
+    {
+      "file": "talmud/45_Vaetchanan.md",
+      "source_sha256": "94cecf0abcd8d76688292226815b2acf09ef3c40dce0e45d143c1429602ee56c",
+      "published_sha256": "e70adcbbf75fea70d8baaf0b50e6f90d00eb766d971d1fb2bd7e094670e472ef",
+      "archived_revision": 3,
+      "archived_wiki_sha": "5401b73258e50083"
+    },
+    {
+      "file": "talmud/46_Eikev.md",
+      "source_sha256": "0aa87d545f224ca578c7d4e2e06b3319e2c3f53bb8ce0f2f480409afcb96d932",
+      "published_sha256": "4b972f1dd5cc3121947798bb81eaf184f08b4a36268ef82b42893063354590f6",
+      "archived_revision": 3,
+      "archived_wiki_sha": "aef0ca48cb8bce98"
+    },
+    {
+      "file": "talmud/47_Re_eh.md",
+      "source_sha256": "2826b2c5c13683e7417c4d419e7d31ebb552efa6358d6b1e8e1698ea84a8f598",
+      "published_sha256": "e850ddcbda1254aff1d2d9e8f46155f857b82d477dd15784c3e9dff0905a7633",
+      "archived_revision": 3,
+      "archived_wiki_sha": "c426fe07d237e440"
+    },
+    {
+      "file": "talmud/48_Shoftim.md",
+      "source_sha256": "6a3bbc8aff6a9c2cd26fed7d1600f1394a964bb6db0df2253e29f6f21b784ab8",
+      "published_sha256": "7028dab97539eb18b13a779df9e7ca5f8b5812e1f50254f6d7e753d13925dcb0",
+      "archived_revision": 3,
+      "archived_wiki_sha": "a120f19f128fd65f"
+    },
+    {
+      "file": "talmud/49_Ki_Teitzei.md",
+      "source_sha256": "777c5e56b3ddfa95c640af390bd27a19f1d45526ef81246463768382d67d3d6b",
+      "published_sha256": "4d300dcf80425293ef8d5c29df86ed2314bc83fdb32218fd9c92045ecaba7b12",
+      "archived_revision": 3,
+      "archived_wiki_sha": "98fa5b6fee4361c3"
+    },
+    {
+      "file": "talmud/50_Ki_Tavo.md",
+      "source_sha256": "dcfbb0a5bd61c6849b0d0be973852ae02a61cefa2df0e45758e1857e94ce29fe",
+      "published_sha256": "b7c1a2d02587f76f07ce8980badef6903e8d5fb788c11612ed752dea2fae3d9d",
+      "archived_revision": 3,
+      "archived_wiki_sha": "77ba8762c0e61823"
+    },
+    {
+      "file": "talmud/51_Nitzavim.md",
+      "source_sha256": "674f4a752c6dccc528b9e44389d7b7b56d60d0b8b1657158a7704e53fae4c612",
+      "published_sha256": "6d0e00a8663ac4f7240c68548d9d96a8535ecb5c82af71b999d94014276f1c0d",
+      "archived_revision": 3,
+      "archived_wiki_sha": "e65b6a7bac1530e2"
+    },
+    {
+      "file": "talmud/52_Vayeilech.md",
+      "source_sha256": "7ec05fcd64d50b66e6b72b470b2ab3774912fbc7bf8e7e1fb12cb8d800071d29",
+      "published_sha256": "83154b0a32dcad27eefe90c2ecfdc086df4e48874a9d80adc6a8b4568e3156c0",
+      "archived_revision": 3,
+      "archived_wiki_sha": "56f10cd9034db9e8"
+    },
+    {
+      "file": "talmud/53_Ha_Azinu.md",
+      "source_sha256": "3fa0078bf37abd2a5562519012f1e7fc7e6741df1de6ac618ce232aa297391cf",
+      "published_sha256": "6bb384ef368c414a39ec53d01b8a9ec6642c9651ab71f5b05a701f6585682c77",
+      "archived_revision": 3,
+      "archived_wiki_sha": "158973578236397d"
+    },
+    {
+      "file": "talmud/54_V_Zot_HaBerachah.md",
+      "source_sha256": "cd7fbcf005617ff40b2ae6118f0591433bc56b815963354aaf24e77a58194750",
+      "published_sha256": "102dea8b837dc91c9449d94d46ce422c8e482aab9eb89e595651bea555432314",
+      "archived_revision": 3,
+      "archived_wiki_sha": "c358d1bf83d73571"
+    },
+    {
+      "file": "talmud/55_Yehoshua_Crossing.md",
+      "source_sha256": "9a2de0fc8dddc3cca2ff6950d2f53481939001b1067146fa4242cb449bba2dc7",
+      "published_sha256": "06e28eedda1484a998514e6a625bd61c87f05200df7fa01924b106726d4d65d4",
+      "archived_revision": 3,
+      "archived_wiki_sha": "b2d66d29eb4a5fd6"
+    },
+    {
+      "file": "talmud/56_Yehoshua_Allotment.md",
+      "source_sha256": "4f6e323a1789acae41fb557832ae078ddabc4c3229faa6302302da41f160bf10",
+      "published_sha256": "3b6dc10e06fba57703e6b7acc5bb10ba8773d606fdfa07915f8cdbb4ac632152",
+      "archived_revision": 3,
+      "archived_wiki_sha": "a79360ef7972cdf0"
+    },
+    {
+      "file": "talmud/57_Shoftim_Deborah_Gideon.md",
+      "source_sha256": "069fdee72cc628afea37a64ee4a5de150b06abeeb6dd2936e1465fae64d0cb4b",
+      "published_sha256": "8a4f81bdd0a8d37ed34d47f59de332cf7f75674d450a14bf101a7b0dedf120b9",
+      "archived_revision": 3,
+      "archived_wiki_sha": "685387e9733fc8df"
+    },
+    {
+      "file": "talmud/58_Shoftim_Samson_Anarchy.md",
+      "source_sha256": "481ce6746a9b83c9d69466d73660c427dc64aae32a473e84e3fdd76d9e66209d",
+      "published_sha256": "b2fdfed4715b59fd95b1ce035606475b27c60a418e5994d91f841a5e3cd69e62",
+      "archived_revision": 3,
+      "archived_wiki_sha": "102077daabf788d7"
+    },
+    {
+      "file": "talmud/59_Shmuel_A_Demand_For_King.md",
+      "source_sha256": "1af76daa97f8b00004cf7f54ed368c640c3a11d87e23b5d14d28006399442ece",
+      "published_sha256": "9629fb0ba3cc7d1f89467ba7e0eb0fe8a659c8d14da068eb32a94ba0c7b1c3d2",
+      "archived_revision": 3,
+      "archived_wiki_sha": "8f8b6f7f88288111"
+    },
+    {
+      "file": "talmud/60_Shmuel_A_David_Fugitive.md",
+      "source_sha256": "bd34f86c405ccc5f8bfb99910421bed28b8354a711d50d6e5dadfd37398380ca",
+      "published_sha256": "74ede853230d73b8067de82328e445b79ec0488c55428da6d6e554e3cfb0fe82",
+      "archived_revision": 3,
+      "archived_wiki_sha": "3095085d87c45bbb"
+    },
+    {
+      "file": "talmud/61_Shmuel_B_Throne_Bathsheba.md",
+      "source_sha256": "bd5b8c7b4d5a7e9c5ea16c49419b0edd7c1db0eda27250581de927da64be1558",
+      "published_sha256": "0e6e14102dd4ee0a358113461c46be03d6636d6ece75b91f710f6559f9c65cd6",
+      "archived_revision": 3,
+      "archived_wiki_sha": "bd9a51325a24e5fa"
+    },
+    {
+      "file": "talmud/62_Shmuel_B_Absalom_Census.md",
+      "source_sha256": "c8f0164d5c5b4de6cc5415aebe2e14d6b5fbd460237a2e2a6c040ce240309346",
+      "published_sha256": "26f063f17d8844e038dce516f3f0d1b12a59d2d295e6be7fd2c9bd1f87e6673f",
+      "archived_revision": 3,
+      "archived_wiki_sha": "a049289bfd4f4152"
+    },
+    {
+      "file": "talmud/63_Melachim_A_Solomon_Schism.md",
+      "source_sha256": "204081497faeba7d464119ce1752c1e273d7e87f6d9b767db5a6d69bd3124909",
+      "published_sha256": "005f704974fa8935fc9a73ee0c756fc51e4ffd3acd37a48749b1c4552613c76c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "a1c9e9ad8bbf19cc"
+    },
+    {
+      "file": "talmud/64_Melachim_A_Elijah_Carmel.md",
+      "source_sha256": "f5024218a81615385e43704fbf852027daf01c84bca6d2f88c50ed68f370f93b",
+      "published_sha256": "f545d0be1d57e060641d4fda7f78d04a528c46d34c8fec33a949134db901b070",
+      "archived_revision": 2,
+      "archived_wiki_sha": "0ef047667ed97edc"
+    },
+    {
+      "file": "talmud/65_Melachim_B_Elisha_Coups.md",
+      "source_sha256": "7536ec1881b73ab10b4273e6baed0ab756b4c5c785b21be1799e43f3b2dea172",
+      "published_sha256": "caf4a122a2bbfccab102a7ffbdd69ebcc9c34c6c680c5115a190ed6858581256",
+      "archived_revision": 2,
+      "archived_wiki_sha": "d747d741bf108ffb"
+    },
+    {
+      "file": "talmud/66_Melachim_B_Fall_Exile.md",
+      "source_sha256": "7faf25bfc618fb5e12b91be507d805a865ae748f3502a361866fc146483fe802",
+      "published_sha256": "ae233c5fab9072324eb703ed3d95c885eb0e8395c9c22b884b7106194a92194c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "b1208e7aff69854e"
+    },
+    {
+      "file": "talmud/67_Yeshayahu_Throne_Assyria.md",
+      "source_sha256": "63d5db1e96d97f397caca9e4f46604f2b2e670333955788fdb8c394511b3db43",
+      "published_sha256": "8c07f38d0333f2825dccd43653aa36184598d46db60b56ea077732ad0f3c2527",
+      "archived_revision": 2,
+      "archived_wiki_sha": "08efdd0c40dd59ab"
+    },
+    {
+      "file": "talmud/68_Yeshayahu_Siege_Hezekiah.md",
+      "source_sha256": "c0f9789de278e709b163c9b8e9c21ebfc660d441d49b6483e11fbab5e14cdc95",
+      "published_sha256": "1a4744988b2d70f73ebe149d583fb2b286459a84f30d3af78734cd39ddea33a4",
+      "archived_revision": 2,
+      "archived_wiki_sha": "825bf6b681831d13"
+    },
+    {
+      "file": "talmud/69_Yeshayahu_Exile_Return.md",
+      "source_sha256": "41ad7af61e95ace2cf9e5d3b69403ae60bc36bb9218d057db28e10ecc48d60c6",
+      "published_sha256": "18ec66f425db4edd3d8db94bdaba6a81fb043a21686431a8c7a03bb0c9637bc9",
+      "archived_revision": 2,
+      "archived_wiki_sha": "4e5d11468d4c8b1c"
+    },
+    {
+      "file": "talmud/70_Yirmiyahu_Temple_Lie.md",
+      "source_sha256": "e5fe51a092f311fbb7d123546d914c8597ab83f705edb128e221f916339975e5",
+      "published_sha256": "9e4e81fcdd335e1c365f67cc679950a807c4d03bb0a868f2cfab469fd74afc0c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "46626ed3a2ea5508"
+    },
+    {
+      "file": "talmud/71_Yirmiyahu_False_Prophets_Scroll.md",
+      "source_sha256": "26d2bb2ef455442f556235a8ef353460cf7211035823c2e82d1280464ce663df",
+      "published_sha256": "09ab911f715e4dbe1f9d1d3701081829d828d65f47b5589c7a5e4f17498505a1",
+      "archived_revision": 2,
+      "archived_wiki_sha": "7bf0fc9a4847fb2a"
+    },
+    {
+      "file": "talmud/72_Yirmiyahu_Cistern_Fall.md",
+      "source_sha256": "5025e4cf9f48ee17fe8eccb87530b16d0267f78004aba35bea1348826687424b",
+      "published_sha256": "5d00934ac76b75d8048a12bcbb7f7761a3bc826934e8d72e5c07db1615065957",
+      "archived_revision": 2,
+      "archived_wiki_sha": "5292c922340084e9"
+    },
+    {
+      "file": "talmud/73_Yechezkel_Merkavah_Departure.md",
+      "source_sha256": "993e7775f460777446dc00d5ba2e39689a98af8566a0cc613d535655dcf64060",
+      "published_sha256": "e94a58dbf142dfcf1c553e2ca781a43e5dbda65f1df197e8b38e8e5d0a218529",
+      "archived_revision": 2,
+      "archived_wiki_sha": "b1454c41e2a972c7"
+    },
+    {
+      "file": "talmud/74_Yechezkel_Watchman_Dry_Bones.md",
+      "source_sha256": "a7f36929e6beaf1d97258c04b5e5c37840af7a4a36e2d53855f934af29850508",
+      "published_sha256": "59a461e557302a6b581cc981445e5ea9d99295842997d7aa37c898495738d264",
+      "archived_revision": 2,
+      "archived_wiki_sha": "7b63a3f2144d58a7"
+    },
+    {
+      "file": "talmud/75_Yechezkel_Gog_Blueprint.md",
+      "source_sha256": "673e8ba6311970c0b7aedab5bdcc39ea2b2b958a64ae9dd7eb873c73d8f071b7",
+      "published_sha256": "f0a9fab1d5b1862be4433a20eebe2a2ca6e07d76c91753647bc2466e70546c56",
+      "archived_revision": 2,
+      "archived_wiki_sha": "953ceb02da9a11b8"
+    },
+    {
+      "file": "talmud/76_Trei_Asar_Hosea_Joel_Amos.md",
+      "source_sha256": "15618d759edf63635204cee00ab7342df91bc5eecad56b43e946c3270d7878d4",
+      "published_sha256": "4b755e14d23cb15a5c3bed46938cd93e8796846723eef6f33b433a43882b154f",
+      "archived_revision": 2,
+      "archived_wiki_sha": "7a998176bc4f59ba"
+    },
+    {
+      "file": "talmud/77_Trei_Asar_Obadiah_Jonah_Micah_Nahum.md",
+      "source_sha256": "ca9a6b9354b3e45b772528d48598d44c44ca5f306a97add9848ce74b7ce00fd9",
+      "published_sha256": "313ec0e5f8b4bf846bbbfbd3a5eb6611347ae298bbf87a50b51c7da34e197964",
+      "archived_revision": 2,
+      "archived_wiki_sha": "38c7d9f08b85b0cf"
+    },
+    {
+      "file": "talmud/78_Trei_Asar_Habakkuk_To_Malachi.md",
+      "source_sha256": "b3a8c0eebd2401dfc34084e3d7591db60e8ba1a2d1b29300241459fe27638dd6",
+      "published_sha256": "df29108d170f3af6c0428ccac6e366deeb8f902787636f8451430d21ce61625c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "755ac4500b24394b"
+    },
+    {
+      "file": "talmud/79_Tehillim_Books_1_2.md",
+      "source_sha256": "66636d07cba0eea526d5815485c55816245baec4d20c8c1d809efc9265227770",
+      "published_sha256": "702a51672f221a6648d3daea8315c5fe8e91f039b3c5835f511945f3173f073e",
+      "archived_revision": 2,
+      "archived_wiki_sha": "686902af0e002f48"
+    },
+    {
+      "file": "talmud/80_Tehillim_Books_3_4.md",
+      "source_sha256": "ba4643d0625bdc0e1b8d3db1753c1dedbf1034a8d104012da4f03c442efa26fb",
+      "published_sha256": "5ba92170a8c727249f0335157eda25eed1123be8f501de40b4084b7ad9fb2ebb",
+      "archived_revision": 2,
+      "archived_wiki_sha": "376a0ed2991ba41b"
+    },
+    {
+      "file": "talmud/81_Tehillim_Book_5.md",
+      "source_sha256": "505eb2502a9c998be2f0e45d502d02644a453bb402f9a4af7c176e7e2536f11c",
+      "published_sha256": "f59fff24ec13b3698aae10d183ede62a970b64134267ba2d196dbf78ae198fa4",
+      "archived_revision": 2,
+      "archived_wiki_sha": "9e864a05af00691d"
+    },
+    {
+      "file": "talmud/82_Mishlei_Wisdom_Heuristics.md",
+      "source_sha256": "c6b41971033974dbfb816cf55a0278aa7b020a34c42fe365cc9c1e23880fd138",
+      "published_sha256": "f5c3f7596edf340f9cd5fb863290d765b994199e17caac8663a11d49a71d3cee",
+      "archived_revision": 2,
+      "archived_wiki_sha": "208577c34b1a91df"
+    },
+    {
+      "file": "talmud/83_Mishlei_Calibration_Agur.md",
+      "source_sha256": "032bed6e8087e0d93702f99ea5e5fee37489c1888fba63a04a20f6baeb0ef397",
+      "published_sha256": "584774efe8654e7f2b0294b87af56c939c2c3c446e0b03d6426a9f1885a82414",
+      "archived_revision": 2,
+      "archived_wiki_sha": "b66af18db0cc657d"
+    },
+    {
+      "file": "talmud/84_Iyov_Benchmark_Bet_Friends.md",
+      "source_sha256": "26d35ea39a49c4975eae274f6dc1529688405f59bf78f98fc9426acd6866d1f7",
+      "published_sha256": "215287be1a023646e7b1ee0cd4002aa50c3aa2b4b0039909634e426813e0908a",
+      "archived_revision": 2,
+      "archived_wiki_sha": "2511a6ac5fed23d4"
+    },
+    {
+      "file": "talmud/85_Iyov_Whirlwind_Rebuke.md",
+      "source_sha256": "ee95bc88e7d103a89cb8b23a23c2c027f0fd29f2dc6df700cf7745f599304a41",
+      "published_sha256": "988967298b542026d2b6e402dcaf6f44a436fc6e27cdcb32a9e6252bd94f417c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "4bce9ed6fa83b885"
+    },
+    {
+      "file": "talmud/86_Shir_HaShirim.md",
+      "source_sha256": "2e5dc40c7a0b7394a50b6e64b6aa807f853dc7bdbec3dc9ce4482339b12b6a1e",
+      "published_sha256": "98bc2e6c04460b59cac935a0b80e09a54cb0c8182c496ff8b83473a289d3cb5a",
+      "archived_revision": 2,
+      "archived_wiki_sha": "955a1092a4f07c5c"
+    },
+    {
+      "file": "talmud/87_Rut.md",
+      "source_sha256": "260c15d4b699ce527d0a37e24d51a3a90aa21a7542990e5465f48d4d0f8cffb6",
+      "published_sha256": "f227951d3675c7340151fb3e5b8d27f05b8cff80f9a97329d8e3cbc392c356d4",
+      "archived_revision": 2,
+      "archived_wiki_sha": "a86766bba6d4fb56"
+    },
+    {
+      "file": "talmud/88_Eichah.md",
+      "source_sha256": "5559b1f4930e8d34acf26d94c5774dc9ca678292fff371be7931065fedced6d2",
+      "published_sha256": "c9e4f24b88a371f9c78cdfb78cc6f719cf340feeb576071a40736ad93bbca35d",
+      "archived_revision": 2,
+      "archived_wiki_sha": "a3da4d0916c267c3"
+    },
+    {
+      "file": "talmud/89_Kohelet.md",
+      "source_sha256": "436265f2b386b8a82622edb1f3f16fe63b522c739ca988a2d3384284eb2bf472",
+      "published_sha256": "cdc4bec61eae6139a197906950e81bed8432d64f62387c2baeeac28cebf28aa7",
+      "archived_revision": 2,
+      "archived_wiki_sha": "b6927b86a937a1bb"
+    },
+    {
+      "file": "talmud/90_Ester.md",
+      "source_sha256": "0201c7e49cc36aed567d918f54040151e54183331731272a3a9ff4dc30bc5001",
+      "published_sha256": "abc8eaae43a623f7e6ce991eb95ea8c28a6bb2c19f43c0ba46f2d17ee44ce121",
+      "archived_revision": 2,
+      "archived_wiki_sha": "1efade3ff741241e"
+    },
+    {
+      "file": "talmud/91_Daniel.md",
+      "source_sha256": "b5bb40ca7ca3d231f50e8704748509351522fc38c218bee9f0ac2e1cde24a41c",
+      "published_sha256": "886a2165c41648d040fe5669559dca64fa5ebefda92ae9ade594a4f56ec3b84c",
+      "archived_revision": 2,
+      "archived_wiki_sha": "75d29f0437e2878d"
+    },
+    {
+      "file": "talmud/92_Ezra_Nechemyah.md",
+      "source_sha256": "d355c3ce16a465ebe3547332433f1f790b1683151718ef0bda3213b8ae2bed75",
+      "published_sha256": "0d995ecb38eb8f099f865ca5a1a64c17d899ee4005273c1061a74ecce6355d8e",
+      "archived_revision": 2,
+      "archived_wiki_sha": "8a7a55d0b52cdd49"
+    },
+    {
+      "file": "talmud/93_Divrei_HaYamim_A.md",
+      "source_sha256": "105c3ccc69acb256ff0f20b99751b47613aba64e7af716c366a956d99b9d568c",
+      "published_sha256": "8be824b2f4fffc43143bd3f402962a5bcd7ecf2d4c6fc4c96dc400d80c006162",
+      "archived_revision": 2,
+      "archived_wiki_sha": "32ad99ae811baa17"
+    },
+    {
+      "file": "talmud/94_Divrei_HaYamim_B.md",
+      "source_sha256": "ec89482a737f25d71e7e573e7c60bd840b01b29b9adfbd9dd741d6c372bb4925",
+      "published_sha256": "1c9481a536e1ccfff5410db0bf20d26ca91792e0dce98fd5f854d198f75620af",
+      "archived_revision": 2,
+      "archived_wiki_sha": "85fe9f6a5bed8274"
+    }
+  ],
+  "individual_scroll_transformation_counts": {
+    "generated_footer_lines_removed": 564,
+    "private_identifier_substitutions": 16,
+    "embedded_reference_blocks_removed": 27,
+    "embedded_reference_characters_removed": 181652
+  },
+  "verification": {
+    "original_compilations_equal_all_original_scrolls": true,
+    "interpretation_scrolls": 94,
+    "debate_scrolls": 94,
+    "full_featured_pairs": 4,
+    "source_archive_unchanged_during_build": true
+  }
+}
